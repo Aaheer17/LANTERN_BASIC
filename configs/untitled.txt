@@ -1,0 +1,3 @@
+hdf5_file: /project/biocomplexity/fa7sa/calochallenge_datasets/dataset_2/dataset_2_1.hdf5
+eval_hdf5_file: /project/biocomplexity/fa7sa/calochallenge_datasets/dataset_2/dataset_2_2.hdf5
+xml_filename: /project/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/binning_dataset_2.xml

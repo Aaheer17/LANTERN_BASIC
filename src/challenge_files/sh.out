@@ -1,0 +1,2060 @@
+/home/fa7sa/bin/dvipng
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:223: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:228: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:202: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:219: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:222: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:291: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:291: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:291: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:313: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:319: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:291: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:313: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:319: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:291: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:291: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:312: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:309: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:383: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:405: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:411: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:383: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:405: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:411: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:383: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:383: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:405: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:411: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:383: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:404: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:401: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:475: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:496: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:497: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:503: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:493: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:585: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:567: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:588: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:589: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:595: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:856: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:862: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:856: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:862: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:856: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:862: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:856: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:862: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:856: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:862: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:834: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:852: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:855: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:745: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:764: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:768: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:774: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:745: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:764: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:768: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:774: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:745: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:764: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:768: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:774: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:745: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:764: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:767: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:768: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:774: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:764: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:764: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:678: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:684: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:655: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:674: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/qumulo/qproject/biocomplexity/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:677: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+Using Everywhere a cut of 0.01515
+what is the filename:  src/challenge_files/binning_dataset_2.xml
+Extracting showers from input file ...
+Extracting showers from input file: DONE.
+
+Cheking input file: /project/biocomplexity/fa7sa/calo_dreamer/results/20250108_144726_d2_vit_800_full_3161_nonoise_learnemb_scale_clip/samples.hdf5
+Checking for negative values, number of negative energies: 
+input:  0 
+
+Checking for nans in the generated sample, number of nans: 
+input:  0 
+
+Checking for infs in the generated sample, number of infs: 
+input:  0 
+
+Extracting showers from reference file ...
+Extracting showers from reference file: DONE.
+
+args.mode='all'
+Computing .pkl reference
+what is the filename:  src/challenge_files/binning_dataset_2.xml
+Loaded HLF object
+Plotting averages for input: samples.hdf5
+Plotting average shower next to reference...
+Plotting average shower next to reference: DONE.
+
+Plotting average shower...
+Plotting average shower: DONE.
+
+Plotting randomly selected reference and generated shower: 
+Plotting average showers for different energies for input samples.hdf5...
+Plotting average shower for different energies: DONE.
+
+Calculating high-level features for histograms ...
+Plotting histograms ...
+Separation power of Etot / Einc histogram: 0.00021130095887360615
+Separation power of E layer 0 histogram: 0.0025153430589606087
+Separation power of E layer 1 histogram: 0.0003829619493234941
+Separation power of E layer 2 histogram: 0.00011599264440783265
+Separation power of E layer 3 histogram: 0.0001861519739578174
+Separation power of E layer 4 histogram: 0.0002457905953385974
+Separation power of E layer 5 histogram: 0.00020852440086948498
+Separation power of E layer 6 histogram: 0.0002130110677238985
+Separation power of E layer 7 histogram: 0.00025286877900985695
+Separation power of E layer 8 histogram: 0.00021005869699342728
+Separation power of E layer 9 histogram: 0.00028071437093293687
+Separation power of E layer 10 histogram: 0.00021737985081491228
+Separation power of E layer 11 histogram: 0.00030863966465454937
+Separation power of E layer 12 histogram: 0.0003038027019200639
+Separation power of E layer 13 histogram: 0.000468859211758717
+Separation power of E layer 14 histogram: 0.000545683855015016
+Separation power of E layer 15 histogram: 0.0005664776158315267
+Separation power of E layer 16 histogram: 0.000658933611353997
+Separation power of E layer 17 histogram: 0.0005711997274833772
+Separation power of E layer 18 histogram: 0.000600553815280304
+Separation power of E layer 19 histogram: 0.0009080770685073963
+Separation power of E layer 20 histogram: 0.0007336444639431075
+Separation power of E layer 21 histogram: 0.0005903581552173443
+Separation power of E layer 22 histogram: 0.0012182931575278923
+Separation power of E layer 23 histogram: 0.0007497066740038492
+Separation power of E layer 24 histogram: 0.001069396339683463
+Separation power of E layer 25 histogram: 0.0014178257950835042
+Separation power of E layer 26 histogram: 0.0007662505954574192
+Separation power of E layer 27 histogram: 0.0011627526498943744
+Separation power of E layer 28 histogram: 0.0007224588915778768
+Separation power of E layer 29 histogram: 0.0008340219295377246
+Separation power of E layer 30 histogram: 0.0011788156164776464
+Separation power of E layer 31 histogram: 0.0011583903843582878
+Separation power of E layer 32 histogram: 0.0014632828173823638
+Separation power of E layer 33 histogram: 0.0012755715882297252
+Separation power of E layer 34 histogram: 0.00115393428306308
+Separation power of E layer 35 histogram: 0.0020104178663767126
+Separation power of E layer 36 histogram: 0.0012492609132613275
+Separation power of E layer 37 histogram: 0.0012231159893088572
+Separation power of E layer 38 histogram: 0.0013943979104094177
+Separation power of E layer 39 histogram: 0.0016120552505080865
+Separation power of E layer 40 histogram: 0.0019805339027428375
+Separation power of E layer 41 histogram: 0.0023208777980996105
+Separation power of E layer 42 histogram: 0.0022194890030120505
+Separation power of E layer 43 histogram: 0.0025821944405651546
+Separation power of E layer 44 histogram: 0.005774943001115491
+Separation power of EC Eta layer 0 histogram: 0.0016357639332557987
+Separation power of EC Eta layer 1 histogram: 0.000927778408790001
+Separation power of EC Eta layer 2 histogram: 0.0018065157201855046
+Separation power of EC Eta layer 3 histogram: 0.004174428135800914
+Separation power of EC Eta layer 4 histogram: 0.001701963149986261
+Separation power of EC Eta layer 5 histogram: 0.0015907087148691475
+Separation power of EC Eta layer 6 histogram: 0.001652410735055611
+Separation power of EC Eta layer 7 histogram: 0.0011048454179567267
+Separation power of EC Eta layer 8 histogram: 0.0007962995037177318
+Separation power of EC Eta layer 9 histogram: 0.0010992200616166208
+Separation power of EC Eta layer 10 histogram: 0.00041767050944696907
+Separation power of EC Eta layer 11 histogram: 0.0007659707621035997
+Separation power of EC Eta layer 12 histogram: 0.0011143906907733847
+Separation power of EC Eta layer 13 histogram: 0.000502896329106224
+Separation power of EC Eta layer 14 histogram: 0.0004092782540997617
+Separation power of EC Eta layer 15 histogram: 0.0008712919815166642
+Separation power of EC Eta layer 16 histogram: 0.00038955822283012536
+Separation power of EC Eta layer 17 histogram: 0.0004913840884571822
+Separation power of EC Eta layer 18 histogram: 0.0005395150505678155
+Separation power of EC Eta layer 19 histogram: 0.0006061685962932773
+Separation power of EC Eta layer 20 histogram: 0.0006615385257151228
+Separation power of EC Eta layer 21 histogram: 0.0005135444517515696
+Separation power of EC Eta layer 22 histogram: 0.0007291068477089625
+Separation power of EC Eta layer 23 histogram: 0.0006841551442424698
+Separation power of EC Eta layer 24 histogram: 0.0006487746675088558
+Separation power of EC Eta layer 25 histogram: 0.0010823435362096357
+Separation power of EC Eta layer 26 histogram: 0.0005948930668282513
+Separation power of EC Eta layer 27 histogram: 0.00043452633903897346
+Separation power of EC Eta layer 28 histogram: 0.001012420115386479
+Separation power of EC Eta layer 29 histogram: 0.0009485883612683982
+Separation power of EC Eta layer 30 histogram: 0.0005265883847055739
+Separation power of EC Eta layer 31 histogram: 0.0006919061758308311
+Separation power of EC Eta layer 32 histogram: 0.0009076501300260933
+Separation power of EC Eta layer 33 histogram: 0.000411623262512007
+Separation power of EC Eta layer 34 histogram: 0.0009629355836257331
+Separation power of EC Eta layer 35 histogram: 0.0010061168641826931
+Separation power of EC Eta layer 36 histogram: 0.00039258373704088677
+Separation power of EC Eta layer 37 histogram: 0.0008454266842227292
+Separation power of EC Eta layer 38 histogram: 0.0009246422245489099
+Separation power of EC Eta layer 39 histogram: 0.00045518177066636236
+Separation power of EC Eta layer 40 histogram: 0.0009137384579253695
+Separation power of EC Eta layer 41 histogram: 0.0008935579368345957
+Separation power of EC Eta layer 42 histogram: 0.00035238866500105273
+Separation power of EC Eta layer 43 histogram: 0.0008645440802427706
+Separation power of EC Eta layer 44 histogram: 0.0008910817556321549
+Separation power of EC Phi layer 0 histogram: 0.0010384010079959231
+Separation power of EC Phi layer 1 histogram: 0.0009439056978806584
+Separation power of EC Phi layer 2 histogram: 0.0013305756209564148
+Separation power of EC Phi layer 3 histogram: 0.002307465491231822
+Separation power of EC Phi layer 4 histogram: 0.0020114307993037454
+Separation power of EC Phi layer 5 histogram: 0.0014778131535829859
+Separation power of EC Phi layer 6 histogram: 0.0006570391892035993
+Separation power of EC Phi layer 7 histogram: 0.0015258344441081014
+Separation power of EC Phi layer 8 histogram: 0.0014102353644165023
+Separation power of EC Phi layer 9 histogram: 0.0004172726913858758
+Separation power of EC Phi layer 10 histogram: 0.0007274942067612465
+Separation power of EC Phi layer 11 histogram: 0.0011888369615358097
+Separation power of EC Phi layer 12 histogram: 0.00028176758783033463
+Separation power of EC Phi layer 13 histogram: 0.0007226373609445878
+Separation power of EC Phi layer 14 histogram: 0.0010161626105276561
+Separation power of EC Phi layer 15 histogram: 0.00038761898650495693
+Separation power of EC Phi layer 16 histogram: 0.0011230775211062008
+Separation power of EC Phi layer 17 histogram: 0.0007656696482803453
+Separation power of EC Phi layer 18 histogram: 0.0003307028720783891
+Separation power of EC Phi layer 19 histogram: 0.000933328455423591
+Separation power of EC Phi layer 20 histogram: 0.0005187384209904821
+Separation power of EC Phi layer 21 histogram: 0.0006063195854662316
+Separation power of EC Phi layer 22 histogram: 0.0010114420060530972
+Separation power of EC Phi layer 23 histogram: 0.0006926582832323425
+Separation power of EC Phi layer 24 histogram: 0.0006777426992098248
+Separation power of EC Phi layer 25 histogram: 0.001007340643588769
+Separation power of EC Phi layer 26 histogram: 0.0005860007210903386
+Separation power of EC Phi layer 27 histogram: 0.0007748625908080119
+Separation power of EC Phi layer 28 histogram: 0.0009436239939362261
+Separation power of EC Phi layer 29 histogram: 0.0004980928674668188
+Separation power of EC Phi layer 30 histogram: 0.0005905208409783903
+Separation power of EC Phi layer 31 histogram: 0.000546562552878667
+Separation power of EC Phi layer 32 histogram: 0.0004467226703437569
+Separation power of EC Phi layer 33 histogram: 0.000521210210324959
+Separation power of EC Phi layer 34 histogram: 0.000812196290400662
+Separation power of EC Phi layer 35 histogram: 0.000948419122388369
+Separation power of EC Phi layer 36 histogram: 0.000709955408362243
+Separation power of EC Phi layer 37 histogram: 0.0016459478585411295
+Separation power of EC Phi layer 38 histogram: 0.000745347462629362
+Separation power of EC Phi layer 39 histogram: 0.0009145781098618914
+Separation power of EC Phi layer 40 histogram: 0.0009378194769793102
+Separation power of EC Phi layer 41 histogram: 0.000952705777124146
+Separation power of EC Phi layer 42 histogram: 0.0006949993861883431
+Separation power of EC Phi layer 43 histogram: 0.0009305973951239129
+Separation power of EC Phi layer 44 histogram: 0.0012046520707648665
+Separation power of Width Eta layer 0 histogram: 0.0007996215587623817
+Separation power of Width Eta layer 1 histogram: 0.0004575896649375548
+Separation power of Width Eta layer 2 histogram: 0.0012094122164057666
+Separation power of Width Eta layer 3 histogram: 0.0027262662057186433
+Separation power of Width Eta layer 4 histogram: 0.0020355553903769964
+Separation power of Width Eta layer 5 histogram: 0.002451467784007866
+Separation power of Width Eta layer 6 histogram: 0.0007678081593285635
+Separation power of Width Eta layer 7 histogram: 0.002379019833933248
+Separation power of Width Eta layer 8 histogram: 0.0023047983082458098
+Separation power of Width Eta layer 9 histogram: 0.0013895424729235524
+Separation power of Width Eta layer 10 histogram: 0.0023325438196020033
+Separation power of Width Eta layer 11 histogram: 0.0022803788764834826
+Separation power of Width Eta layer 12 histogram: 0.000554149290025893
+Separation power of Width Eta layer 13 histogram: 0.001588450754607964
+Separation power of Width Eta layer 14 histogram: 0.0014963439266330364
+Separation power of Width Eta layer 15 histogram: 0.0004427749001178806
+Separation power of Width Eta layer 16 histogram: 0.001502660153176687
+Separation power of Width Eta layer 17 histogram: 0.0024209076889409892
+Separation power of Width Eta layer 18 histogram: 0.001560100637257548
+Separation power of Width Eta layer 19 histogram: 0.0026324419805841552
+Separation power of Width Eta layer 20 histogram: 0.00390197372552816
+Separation power of Width Eta layer 21 histogram: 0.0028012655426102283
+Separation power of Width Eta layer 22 histogram: 0.003947547188403456
+Separation power of Width Eta layer 23 histogram: 0.004256021513246541
+Separation power of Width Eta layer 24 histogram: 0.0029539695916056645
+Separation power of Width Eta layer 25 histogram: 0.0025801873513422767
+Separation power of Width Eta layer 26 histogram: 0.0029836692704746596
+Separation power of Width Eta layer 27 histogram: 0.002277192078170397
+Separation power of Width Eta layer 28 histogram: 0.0019527068301749416
+Separation power of Width Eta layer 29 histogram: 0.00165636610450758
+Separation power of Width Eta layer 30 histogram: 0.0012702476715976616
+Separation power of Width Eta layer 31 histogram: 0.0009126671005423907
+Separation power of Width Eta layer 32 histogram: 0.0009208523788846227
+Separation power of Width Eta layer 33 histogram: 0.0011179384474671395
+Separation power of Width Eta layer 34 histogram: 0.0006549973254280436
+Separation power of Width Eta layer 35 histogram: 0.0010649376847964743
+Separation power of Width Eta layer 36 histogram: 0.0008013370716138752
+Separation power of Width Eta layer 37 histogram: 0.0011721571951978497
+Separation power of Width Eta layer 38 histogram: 0.0007196985016604923
+Separation power of Width Eta layer 39 histogram: 0.0005423416822030597
+Separation power of Width Eta layer 40 histogram: 0.0013671367143449967
+Separation power of Width Eta layer 41 histogram: 0.00047115804636033734
+Separation power of Width Eta layer 42 histogram: 0.0008293216451996737
+Separation power of Width Eta layer 43 histogram: 0.0008729741383068255
+Separation power of Width Eta layer 44 histogram: 0.0005531095440600403
+Separation power of Width Phi layer 0 histogram: 0.0007684743808650399
+Separation power of Width Phi layer 1 histogram: 0.0005200037043313769
+Separation power of Width Phi layer 2 histogram: 0.0009940425805785138
+Separation power of Width Phi layer 3 histogram: 0.001776424325964018
+Separation power of Width Phi layer 4 histogram: 0.001802539241600181
+Separation power of Width Phi layer 5 histogram: 0.0015355216325948903
+Separation power of Width Phi layer 6 histogram: 0.0006395777076026219
+Separation power of Width Phi layer 7 histogram: 0.0023533513664912298
+Separation power of Width Phi layer 8 histogram: 0.0011878522145885662
+Separation power of Width Phi layer 9 histogram: 0.001174817607415076
+Separation power of Width Phi layer 10 histogram: 0.0028099820336642887
+Separation power of Width Phi layer 11 histogram: 0.0009094025778863066
+Separation power of Width Phi layer 12 histogram: 0.0005775086063379329
+Separation power of Width Phi layer 13 histogram: 0.0020894694050220173
+Separation power of Width Phi layer 14 histogram: 0.001029235666275075
+Separation power of Width Phi layer 15 histogram: 0.00032915727133038677
+Separation power of Width Phi layer 16 histogram: 0.0020757647385173756
+Separation power of Width Phi layer 17 histogram: 0.002019423766566314
+Separation power of Width Phi layer 18 histogram: 0.0013333536301383894
+Separation power of Width Phi layer 19 histogram: 0.003045685742227377
+Separation power of Width Phi layer 20 histogram: 0.0029041112483267208
+Separation power of Width Phi layer 21 histogram: 0.0021219551097888577
+Separation power of Width Phi layer 22 histogram: 0.0037144290186490463
+Separation power of Width Phi layer 23 histogram: 0.0037103690732935494
+Separation power of Width Phi layer 24 histogram: 0.002518465164036943
+Separation power of Width Phi layer 25 histogram: 0.003025529599414752
+Separation power of Width Phi layer 26 histogram: 0.002660844118959587
+Separation power of Width Phi layer 27 histogram: 0.0021550501077765064
+Separation power of Width Phi layer 28 histogram: 0.001979540518062343
+Separation power of Width Phi layer 29 histogram: 0.0017157233951553613
+Separation power of Width Phi layer 30 histogram: 0.0015023180049556226
+Separation power of Width Phi layer 31 histogram: 0.0017671028808722254
+Separation power of Width Phi layer 32 histogram: 0.0010859294944625224
+Separation power of Width Phi layer 33 histogram: 0.0011247212249173597
+Separation power of Width Phi layer 34 histogram: 0.001168751774710278
+Separation power of Width Phi layer 35 histogram: 0.001046335234833192
+Separation power of Width Phi layer 36 histogram: 0.0011135142306836312
+Separation power of Width Phi layer 37 histogram: 0.0009717746781024204
+Separation power of Width Phi layer 38 histogram: 0.0007161195758881856
+Separation power of Width Phi layer 39 histogram: 0.0010792764346887417
+Separation power of Width Phi layer 40 histogram: 0.0011723811878541158
+Separation power of Width Phi layer 41 histogram: 0.0006767054377492402
+Separation power of Width Phi layer 42 histogram: 0.0008984314906680989
+Separation power of Width Phi layer 43 histogram: 0.0009252072427828167
+Separation power of Width Phi layer 44 histogram: 0.0009867079906094945
+Separation power of Sparsity layer 0 histogram: 0.0005660258935750987
+Separation power of Sparsity layer 1 histogram: 0.0005544832324282891
+Separation power of Sparsity layer 2 histogram: 0.000707929382249511
+Separation power of Sparsity layer 3 histogram: 0.0021244166759238265
+Separation power of Sparsity layer 4 histogram: 0.0005829240628582107
+Separation power of Sparsity layer 5 histogram: 0.0003759648477241449
+Separation power of Sparsity layer 6 histogram: 0.0005114745811280379
+Separation power of Sparsity layer 7 histogram: 0.0002894129146439405
+Separation power of Sparsity layer 8 histogram: 0.000252113833164443
+Separation power of Sparsity layer 9 histogram: 0.0014053429347730029
+Separation power of Sparsity layer 10 histogram: 0.0013742879203278609
+Separation power of Sparsity layer 11 histogram: 0.0002688652519074672
+Separation power of Sparsity layer 12 histogram: 0.0006842333436162213
+Separation power of Sparsity layer 13 histogram: 0.0004392018177712032
+Separation power of Sparsity layer 14 histogram: 0.0002367941999876221
+Separation power of Sparsity layer 15 histogram: 0.00046073301671373793
+Separation power of Sparsity layer 16 histogram: 0.0004910395918011709
+Separation power of Sparsity layer 17 histogram: 0.0003150002136156973
+Separation power of Sparsity layer 18 histogram: 0.00027865451486195437
+Separation power of Sparsity layer 19 histogram: 0.000208071839892709
+Separation power of Sparsity layer 20 histogram: 0.00022169088500567874
+Separation power of Sparsity layer 21 histogram: 0.00022440439302938434
+Separation power of Sparsity layer 22 histogram: 0.0001438893769127221
+Separation power of Sparsity layer 23 histogram: 0.0001676407433484055
+Separation power of Sparsity layer 24 histogram: 0.0005008252435641574
+Separation power of Sparsity layer 25 histogram: 0.00034022736056910243
+Separation power of Sparsity layer 26 histogram: 0.00020475364755184972
+Separation power of Sparsity layer 27 histogram: 0.0007531140089298906
+Separation power of Sparsity layer 28 histogram: 0.0005805422274526817
+Separation power of Sparsity layer 29 histogram: 0.0004983375128063013
+Separation power of Sparsity layer 30 histogram: 0.0006063907660705056
+Separation power of Sparsity layer 31 histogram: 0.0006237352846549938
+Separation power of Sparsity layer 32 histogram: 0.0007888736354899961
+Separation power of Sparsity layer 33 histogram: 0.0006859999228458945
+Separation power of Sparsity layer 34 histogram: 0.0008065473181449961
+Separation power of Sparsity layer 35 histogram: 0.0010240549039150356
+Separation power of Sparsity layer 36 histogram: 0.0003869456079827925
+Separation power of Sparsity layer 37 histogram: 0.00028522552247012116
+Separation power of Sparsity layer 38 histogram: 0.00016254140297343063
+Separation power of Sparsity layer 39 histogram: 0.0004567666144561964
+Separation power of Sparsity layer 40 histogram: 0.0006375623698347343
+Separation power of Sparsity layer 41 histogram: 0.00031717305490107747
+Separation power of Sparsity layer 42 histogram: 0.0006203014992114015
+Separation power of Sparsity layer 43 histogram: 0.0004897321239111001
+Separation power of Sparsity layer 44 histogram: 0.0005778818709552996
+Separation power of Weighted depth ring 0 histogram: 0.0004322599678356549
+Separation power of Weighted depth ring 1 histogram: 0.000604920715139428
+Separation power of Weighted depth ring 2 histogram: 0.0007678310821922221
+Separation power of Weighted depth ring 3 histogram: 0.0006402498832930361
+Separation power of Weighted depth ring 4 histogram: 0.000336004889570392
+Separation power of Weighted depth ring 5 histogram: 0.0004959848358646515
+Separation power of Weighted depth ring 6 histogram: 0.00047675993896452776
+Separation power of Weighted depth ring 7 histogram: 0.0003892839264531609
+Separation power of Weighted depth ring 8 histogram: 0.000498253818936115
+Separation power of Weighted depth slice 0 histogram: 0.0004981892820990582
+Separation power of Weighted depth slice 1 histogram: 0.00037670856294981536
+Separation power of Weighted depth slice 2 histogram: 0.0005364310048873304
+Separation power of Weighted depth slice 3 histogram: 0.0003450028262309293
+Separation power of Weighted depth slice 4 histogram: 0.0005703235138488482
+Separation power of Weighted depth slice 5 histogram: 0.0006114916762333937
+Separation power of Weighted depth slice 6 histogram: 0.000339135707882954
+Separation power of Weighted depth slice 7 histogram: 0.00033957303615063806
+Separation power of Weighted depth slice 8 histogram: 0.00028155599183558064
+Separation power of Weighted depth slice 9 histogram: 0.0005158133249155078
+Separation power of Weighted depth slice 10 histogram: 0.00038500844851631355
+Separation power of Weighted depth slice 11 histogram: 0.0003199831382783857
+Separation power of Weighted depth slice 12 histogram: 0.00029014432288314523
+Separation power of Weighted depth slice 13 histogram: 0.00031065444263595984
+Separation power of Weighted depth slice 14 histogram: 0.00025939908228012336
+Separation power of Weighted depth slice 15 histogram: 0.00037064935611319847
+Separation power of voxel distribution histogram: 0.0024599246299324756
+Plotting histograms: DONE. 
+
+at classification branch
+in classification branch
+Calculating high-level features for classifier for input {input_name}...
+Using 0.01515 as cut for the showers ...
+Calculating high-level features for classifer: DONE.
+
+119998 39998 40002
+Using cuda:0
+DNN(
+  (inputlayer): Linear(in_features=6481, out_features=512, bias=True)
+  (outputlayer): Linear(in_features=512, out_features=1, bias=True)
+  (layers): Sequential(
+    (0): Linear(in_features=6481, out_features=512, bias=True)
+    (1): LeakyReLU(negative_slope=0.01)
+    (2): Dropout(p=0.0, inplace=False)
+    (3): Linear(in_features=512, out_features=512, bias=True)
+    (4): LeakyReLU(negative_slope=0.01)
+    (5): Dropout(p=0.0, inplace=False)
+    (6): Linear(in_features=512, out_features=512, bias=True)
+    (7): LeakyReLU(negative_slope=0.01)
+    (8): Dropout(p=0.0, inplace=False)
+    (9): Linear(in_features=512, out_features=1, bias=True)
+  )
+)
+all has 3844609 parameters
+Epoch   1 / 50, step    0 / 120; loss 0.6933
+Epoch   1 / 50, step   60 / 120; loss 0.6932
+Accuracy on training set is 0.49937498958315973
+Accuracy on test set is 0.5333516675833792
+AUC on test set is 0.5492480959364734
+BCE loss of test set is 0.6931, JSD of the two dists is 0.0001
+Epoch   2 / 50, step    0 / 120; loss 0.6930
+Epoch   2 / 50, step   60 / 120; loss 0.6936
+Accuracy on training set is 0.522700378339639
+Accuracy on test set is 0.5695534776738836
+AUC on test set is 0.6518866895392371
+BCE loss of test set is 0.6827, JSD of the two dists is 0.0151
+Epoch   3 / 50, step    0 / 120; loss 0.6799
+Epoch   3 / 50, step   60 / 120; loss 0.6654
+Accuracy on training set is 0.6036433940565676
+Accuracy on test set is 0.6556077803890195
+AUC on test set is 0.6890898247597514
+BCE loss of test set is 0.6519, JSD of the two dists is 0.0594
+Epoch   4 / 50, step    0 / 120; loss 0.6280
+Epoch   4 / 50, step   60 / 120; loss 0.6248
+Accuracy on training set is 0.6680444674077901
+Accuracy on test set is 0.607680384019201
+AUC on test set is 0.7211813788349299
+BCE loss of test set is 0.6436, JSD of the two dists is 0.0715
+Epoch   5 / 50, step    0 / 120; loss 0.6150
+Epoch   5 / 50, step   60 / 120; loss 0.6042
+Accuracy on training set is 0.6951032517208621
+Accuracy on test set is 0.660058002900145
+AUC on test set is 0.7451704901860924
+BCE loss of test set is 0.6158, JSD of the two dists is 0.1116
+Epoch   6 / 50, step    0 / 120; loss 0.5972
+Epoch   6 / 50, step   60 / 120; loss 0.5680
+Accuracy on training set is 0.7171452857547626
+Accuracy on test set is 0.7084854242712135
+AUC on test set is 0.7711708051525883
+BCE loss of test set is 0.5803, JSD of the two dists is 0.1628
+Epoch   7 / 50, step    0 / 120; loss 0.5501
+Epoch   7 / 50, step   60 / 120; loss 0.5533
+Accuracy on training set is 0.722862047700795
+Accuracy on test set is 0.6921346067303366
+AUC on test set is 0.7762128718466524
+BCE loss of test set is 0.5815, JSD of the two dists is 0.1611
+Epoch   8 / 50, step    0 / 120; loss 0.5526
+Epoch   8 / 50, step   60 / 120; loss 0.5249
+Accuracy on training set is 0.732078867981133
+Accuracy on test set is 0.7102855142757137
+AUC on test set is 0.7850894119784743
+BCE loss of test set is 0.5602, JSD of the two dists is 0.1917
+Epoch   9 / 50, step    0 / 120; loss 0.5250
+Epoch   9 / 50, step   60 / 120; loss 0.5234
+Accuracy on training set is 0.7358289304821747
+Accuracy on test set is 0.7154857742887144
+AUC on test set is 0.7921678373033108
+BCE loss of test set is 0.5536, JSD of the two dists is 0.2013
+Epoch  10 / 50, step    0 / 120; loss 0.4878
+Epoch  10 / 50, step   60 / 120; loss 0.5144
+Accuracy on training set is 0.7427707128452141
+Accuracy on test set is 0.7190859542977149
+AUC on test set is 0.7939622217372682
+BCE loss of test set is 0.5577, JSD of the two dists is 0.1954
+Epoch  11 / 50, step    0 / 120; loss 0.5007
+Epoch  11 / 50, step   60 / 120; loss 0.5197
+Accuracy on training set is 0.7447790796513275
+Accuracy on test set is 0.7200610030501525
+AUC on test set is 0.7969842764351829
+BCE loss of test set is 0.5521, JSD of the two dists is 0.2034
+Epoch  12 / 50, step    0 / 120; loss 0.4595
+Epoch  12 / 50, step   60 / 120; loss 0.4698
+Accuracy on training set is 0.748154135902265
+Accuracy on test set is 0.711935596779839
+AUC on test set is 0.7931194174589473
+BCE loss of test set is 0.5558, JSD of the two dists is 0.1981
+Epoch  13 / 50, step    0 / 120; loss 0.4408
+Epoch  13 / 50, step   60 / 120; loss 0.4844
+Accuracy on training set is 0.7594293238220637
+Accuracy on test set is 0.6961598079903996
+AUC on test set is 0.78268743178646
+BCE loss of test set is 0.5738, JSD of the two dists is 0.1722
+Epoch  14 / 50, step    0 / 120; loss 0.4875
+Epoch  14 / 50, step   60 / 120; loss 0.4616
+Accuracy on training set is 0.7689628160469341
+Accuracy on test set is 0.7105855292764638
+AUC on test set is 0.801715247020414
+BCE loss of test set is 0.5567, JSD of the two dists is 0.1969
+Epoch  15 / 50, step    0 / 120; loss 0.4589
+Epoch  15 / 50, step   60 / 120; loss 0.4487
+Accuracy on training set is 0.772079534658911
+Accuracy on test set is 0.7169608480424021
+AUC on test set is 0.800406813680351
+BCE loss of test set is 0.5507, JSD of the two dists is 0.2056
+Epoch  16 / 50, step    0 / 120; loss 0.4636
+Epoch  16 / 50, step   60 / 120; loss 0.4714
+Accuracy on training set is 0.773646227437124
+Accuracy on test set is 0.7052352617630882
+AUC on test set is 0.7920981078305378
+BCE loss of test set is 0.5832, JSD of the two dists is 0.1586
+Epoch  17 / 50, step    0 / 120; loss 0.4554
+Epoch  17 / 50, step   60 / 120; loss 0.4352
+Accuracy on training set is 0.7831963866064434
+Accuracy on test set is 0.7117105855292765
+AUC on test set is 0.7972045309600848
+BCE loss of test set is 0.5821, JSD of the two dists is 0.1601
+Epoch  18 / 50, step    0 / 120; loss 0.4549
+Epoch  18 / 50, step   60 / 120; loss 0.4592
+Accuracy on training set is 0.7879131318855315
+Accuracy on test set is 0.7164358217910896
+AUC on test set is 0.7984066811721006
+BCE loss of test set is 0.5627, JSD of the two dists is 0.1883
+Epoch  19 / 50, step    0 / 120; loss 0.4433
+Epoch  19 / 50, step   60 / 120; loss 0.4208
+Accuracy on training set is 0.7950215836930615
+Accuracy on test set is 0.7185859292964648
+AUC on test set is 0.8015897569717227
+BCE loss of test set is 0.5585, JSD of the two dists is 0.1943
+Epoch  20 / 50, step    0 / 120; loss 0.4210
+Epoch  20 / 50, step   60 / 120; loss 0.3921
+Accuracy on training set is 0.8039300655010917
+Accuracy on test set is 0.7201610080504025
+AUC on test set is 0.8010884568429631
+BCE loss of test set is 0.5763, JSD of the two dists is 0.1686
+Epoch  21 / 50, step    0 / 120; loss 0.3885
+Epoch  21 / 50, step   60 / 120; loss 0.4131
+Accuracy on training set is 0.8115718595309922
+Accuracy on test set is 0.7059602980149008
+AUC on test set is 0.7857041259483345
+BCE loss of test set is 0.6192, JSD of the two dists is 0.1067
+Epoch  22 / 50, step    0 / 120; loss 0.4433
+Epoch  22 / 50, step   60 / 120; loss 0.4413
+Accuracy on training set is 0.8164552742545709
+Accuracy on test set is 0.7208360418020902
+AUC on test set is 0.8031534133334498
+BCE loss of test set is 0.5960, JSD of the two dists is 0.1401
+Epoch  23 / 50, step    0 / 120; loss 0.3870
+Epoch  23 / 50, step   60 / 120; loss 0.3697
+Accuracy on training set is 0.8262554375906265
+Accuracy on test set is 0.7251612580629031
+AUC on test set is 0.8033993304245441
+BCE loss of test set is 0.6291, JSD of the two dists is 0.0924
+Epoch  24 / 50, step    0 / 120; loss 0.3701
+Epoch  24 / 50, step   60 / 120; loss 0.3706
+Accuracy on training set is 0.8340972349539159
+Accuracy on test set is 0.7203110155507776
+AUC on test set is 0.8023885718512137
+BCE loss of test set is 0.6351, JSD of the two dists is 0.0838
+Epoch  25 / 50, step    0 / 120; loss 0.3371
+Epoch  25 / 50, step   60 / 120; loss 0.3449
+Accuracy on training set is 0.8387889798163303
+Accuracy on test set is 0.7197109855492775
+AUC on test set is 0.7980561211169713
+BCE loss of test set is 0.6279, JSD of the two dists is 0.0941
+Epoch  26 / 50, step    0 / 120; loss 0.3284
+Epoch  26 / 50, step   60 / 120; loss 0.3102
+Accuracy on training set is 0.8439807330122169
+Accuracy on test set is 0.7213110655532776
+AUC on test set is 0.7966580838167365
+BCE loss of test set is 0.6390, JSD of the two dists is 0.0781
+Epoch  27 / 50, step    0 / 120; loss 0.3290
+Epoch  27 / 50, step   60 / 120; loss 0.3124
+Accuracy on training set is 0.8555809263487725
+Accuracy on test set is 0.72003600180009
+AUC on test set is 0.7944300710210269
+BCE loss of test set is 0.6577, JSD of the two dists is 0.0511
+Epoch  28 / 50, step    0 / 120; loss 0.3055
+Epoch  28 / 50, step   60 / 120; loss 0.2751
+Accuracy on training set is 0.8574142902381706
+Accuracy on test set is 0.7211860593029652
+AUC on test set is 0.7980946474695103
+BCE loss of test set is 0.7192, JSD of the two dists is -0.0376
+Epoch  29 / 50, step    0 / 120; loss 0.2877
+Epoch  29 / 50, step   60 / 120; loss 0.2743
+Accuracy on training set is 0.8703061717695295
+Accuracy on test set is 0.7163358167908396
+AUC on test set is 0.7929292034380209
+BCE loss of test set is 0.7040, JSD of the two dists is -0.0156
+Epoch  30 / 50, step    0 / 120; loss 0.2897
+Epoch  30 / 50, step   60 / 120; loss 0.3278
+Accuracy on training set is 0.8805480091334855
+Accuracy on test set is 0.724361218060903
+AUC on test set is 0.7956617966905145
+BCE loss of test set is 0.7107, JSD of the two dists is -0.0253
+Epoch  31 / 50, step    0 / 120; loss 0.2459
+Epoch  31 / 50, step   60 / 120; loss 0.3444
+Accuracy on training set is 0.8825813763562727
+Accuracy on test set is 0.7212110605530276
+AUC on test set is 0.7911874842704583
+BCE loss of test set is 0.7313, JSD of the two dists is -0.0551
+Epoch  32 / 50, step    0 / 120; loss 0.2409
+Epoch  32 / 50, step   60 / 120; loss 0.2625
+Accuracy on training set is 0.8888314805246754
+Accuracy on test set is 0.7229861493074654
+AUC on test set is 0.7918708426045834
+BCE loss of test set is 0.7509, JSD of the two dists is -0.0833
+Epoch  33 / 50, step    0 / 120; loss 0.2368
+Epoch  33 / 50, step   60 / 120; loss 0.2464
+Accuracy on training set is 0.9039150652510876
+Accuracy on test set is 0.7246112305615281
+AUC on test set is 0.7909626242850221
+BCE loss of test set is 0.7696, JSD of the two dists is -0.1103
+Epoch  34 / 50, step    0 / 120; loss 0.2201
+Epoch  34 / 50, step   60 / 120; loss 0.2668
+Accuracy on training set is 0.9046484108068468
+Accuracy on test set is 0.7239861993099656
+AUC on test set is 0.7885850440329406
+BCE loss of test set is 0.7884, JSD of the two dists is -0.1375
+Epoch  35 / 50, step    0 / 120; loss 0.2310
+Epoch  35 / 50, step   60 / 120; loss 0.2173
+Accuracy on training set is 0.9115901931698862
+Accuracy on test set is 0.7131606580329016
+AUC on test set is 0.7765212926879657
+BCE loss of test set is 0.7878, JSD of the two dists is -0.1365
+Epoch  36 / 50, step    0 / 120; loss 0.2159
+Epoch  36 / 50, step   60 / 120; loss 0.2188
+Accuracy on training set is 0.9167652794213237
+Accuracy on test set is 0.7159357967898395
+AUC on test set is 0.7826818874820435
+BCE loss of test set is 0.8620, JSD of the two dists is -0.2435
+Epoch  37 / 50, step    0 / 120; loss 0.2059
+Epoch  37 / 50, step   60 / 120; loss 0.1962
+Accuracy on training set is 0.9184236403940066
+Accuracy on test set is 0.7179608980449023
+AUC on test set is 0.778005407345721
+BCE loss of test set is 0.9029, JSD of the two dists is -0.3026
+Epoch  38 / 50, step    0 / 120; loss 0.1739
+Epoch  38 / 50, step   60 / 120; loss 0.1805
+Accuracy on training set is 0.9272321205353422
+Accuracy on test set is 0.7223861193059653
+AUC on test set is 0.7806522095193213
+BCE loss of test set is 0.8955, JSD of the two dists is -0.2920
+Epoch  39 / 50, step    0 / 120; loss 0.1786
+Epoch  39 / 50, step   60 / 120; loss 0.1668
+Accuracy on training set is 0.9264821080351339
+Accuracy on test set is 0.7188109405470273
+AUC on test set is 0.7754486529266711
+BCE loss of test set is 0.9286, JSD of the two dists is -0.3397
+Epoch  40 / 50, step    0 / 120; loss 0.1692
+Epoch  40 / 50, step   60 / 120; loss 0.1548
+Accuracy on training set is 0.9281571359522659
+Accuracy on test set is 0.7175858792939647
+AUC on test set is 0.7704877168454652
+BCE loss of test set is 0.9750, JSD of the two dists is -0.4066
+Epoch  41 / 50, step    0 / 120; loss 0.1597
+Epoch  41 / 50, step   60 / 120; loss 0.1539
+Accuracy on training set is 0.930098834980583
+Accuracy on test set is 0.7212360618030902
+AUC on test set is 0.7781105091056343
+BCE loss of test set is 0.9687, JSD of the two dists is -0.3976
+Epoch  42 / 50, step    0 / 120; loss 0.1450
+Epoch  42 / 50, step   60 / 120; loss 0.1632
+Accuracy on training set is 0.9362072701211687
+Accuracy on test set is 0.7111605580279013
+AUC on test set is 0.774560905404138
+BCE loss of test set is 1.0160, JSD of the two dists is -0.4657
+Epoch  43 / 50, step    0 / 120; loss 0.1742
+Epoch  43 / 50, step   60 / 120; loss 0.1887
+Accuracy on training set is 0.9389323155385924
+Accuracy on test set is 0.7219110955547777
+AUC on test set is 0.7772851353203192
+BCE loss of test set is 1.0500, JSD of the two dists is -0.5149
+Epoch  44 / 50, step    0 / 120; loss 0.1444
+Epoch  44 / 50, step   60 / 120; loss 0.1920
+Accuracy on training set is 0.9447240787346456
+Accuracy on test set is 0.7234861743087154
+AUC on test set is 0.7783056448687227
+BCE loss of test set is 1.0901, JSD of the two dists is -0.5727
+Epoch  45 / 50, step    0 / 120; loss 0.1249
+Epoch  45 / 50, step   60 / 120; loss 0.1553
+Accuracy on training set is 0.9475324588743146
+Accuracy on test set is 0.7145607280364018
+AUC on test set is 0.7718348265530682
+BCE loss of test set is 1.2162, JSD of the two dists is -0.7546
+Epoch  46 / 50, step    0 / 120; loss 0.1579
+Epoch  46 / 50, step   60 / 120; loss 0.1256
+Accuracy on training set is 0.9483324722078701
+Accuracy on test set is 0.7115355767788389
+AUC on test set is 0.7750119980122713
+BCE loss of test set is 1.1790, JSD of the two dists is -0.7009
+Epoch  47 / 50, step    0 / 120; loss 0.1332
+Epoch  47 / 50, step   60 / 120; loss 0.1076
+Accuracy on training set is 0.9544159069317822
+Accuracy on test set is 0.7199109955497774
+AUC on test set is 0.7761610679163891
+BCE loss of test set is 1.2409, JSD of the two dists is -0.7903
+Epoch  48 / 50, step    0 / 120; loss 0.1302
+Epoch  48 / 50, step   60 / 120; loss 0.1136
+Accuracy on training set is 0.9537992299871665
+Accuracy on test set is 0.7196609830491525
+AUC on test set is 0.7742318187462951
+BCE loss of test set is 1.3283, JSD of the two dists is -0.9163
+Epoch  49 / 50, step    0 / 120; loss 0.1345
+Epoch  49 / 50, step   60 / 120; loss 0.0979
+Accuracy on training set is 0.9558492641544025
+Accuracy on test set is 0.7226111305565278
+AUC on test set is 0.7742744655108649
+BCE loss of test set is 1.2577, JSD of the two dists is -0.8145
+Epoch  50 / 50, step    0 / 120; loss 0.0976
+Epoch  50 / 50, step   60 / 120; loss 0.0937
+Accuracy on training set is 0.9583659727662127
+Accuracy on test set is 0.7166358317915896
+AUC on test set is 0.7677323963203011
+BCE loss of test set is 1.2539, JSD of the two dists is -0.8090
+classifier loaded successfully
+Now looking at independent dataset:
+Accuracy on test set is 0.7290385480725964
+AUC on test set is 0.811078162656039
+BCE loss of test set is 0.6098, JSD of the two dists is 0.1202
+unrescaled calibration curve: [0.1176629  0.25655088 0.30966114 0.39508266 0.42813984 0.47945205
+ 0.52687747 0.58668005 0.68813646 0.85417495] [0.03458214 0.14729779 0.24935288 0.35049617 0.4507976  0.55041158
+ 0.65093871 0.7521219  0.85285469 0.96844436]
+Rescaled accuracy is 0.7309634518274086
+rescaled AUC of dataset is 0.8109238755851318
+rescaled calibration curve: [0.06386796 0.14249621 0.26630345 0.37011593 0.44500812 0.54247857
+ 0.65       0.75726644 0.87643208 0.92589792] [0.06567657 0.14452527 0.26309861 0.35693087 0.45952277 0.55529931
+ 0.65335817 0.74187884 0.8584883  0.92208133]
+rescaled BCE loss of test set is 0.5305, rescaled JSD of the two dists is 0.2347
+Final result of classifier test cls-low for samples.hdf5 (AUC / JSD):
+0.8109 / 0.2347
+119998 39998 40002
+Using cuda:0
+DNN(
+  (inputlayer): Linear(in_features=226, out_features=512, bias=True)
+  (outputlayer): Linear(in_features=512, out_features=1, bias=True)
+  (layers): Sequential(
+    (0): Linear(in_features=226, out_features=512, bias=True)
+    (1): LeakyReLU(negative_slope=0.01)
+    (2): Dropout(p=0.0, inplace=False)
+    (3): Linear(in_features=512, out_features=512, bias=True)
+    (4): LeakyReLU(negative_slope=0.01)
+    (5): Dropout(p=0.0, inplace=False)
+    (6): Linear(in_features=512, out_features=512, bias=True)
+    (7): LeakyReLU(negative_slope=0.01)
+    (8): Dropout(p=0.0, inplace=False)
+    (9): Linear(in_features=512, out_features=1, bias=True)
+  )
+)
+all has 642049 parameters
+Epoch   1 / 50, step    0 / 120; loss 0.6933
+Epoch   1 / 50, step   60 / 120; loss 0.6952
+Accuracy on training set is 0.5087001450024167
+Accuracy on test set is 0.5137256862843143
+AUC on test set is 0.5292634675235937
+BCE loss of test set is 0.6921, JSD of the two dists is 0.0015
+Epoch   2 / 50, step    0 / 120; loss 0.6923
+Epoch   2 / 50, step   60 / 120; loss 0.6933
+Accuracy on training set is 0.5182669711161852
+Accuracy on test set is 0.5183509175458773
+AUC on test set is 0.53475649181229
+BCE loss of test set is 0.6911, JSD of the two dists is 0.0030
+Epoch   3 / 50, step    0 / 120; loss 0.6906
+Epoch   3 / 50, step   60 / 120; loss 0.6944
+Accuracy on training set is 0.5272587876464607
+Accuracy on test set is 0.5305765288264414
+AUC on test set is 0.5433922803695563
+BCE loss of test set is 0.6899, JSD of the two dists is 0.0046
+Epoch   4 / 50, step    0 / 120; loss 0.6895
+Epoch   4 / 50, step   60 / 120; loss 0.6841
+Accuracy on training set is 0.5355255920932016
+Accuracy on test set is 0.5420771038551928
+AUC on test set is 0.5545624548590797
+BCE loss of test set is 0.6886, JSD of the two dists is 0.0066
+Epoch   5 / 50, step    0 / 120; loss 0.6876
+Epoch   5 / 50, step   60 / 120; loss 0.6891
+Accuracy on training set is 0.5442090701511691
+Accuracy on test set is 0.5488274413720686
+AUC on test set is 0.5643597120603068
+BCE loss of test set is 0.6867, JSD of the two dists is 0.0094
+Epoch   6 / 50, step    0 / 120; loss 0.6855
+Epoch   6 / 50, step   60 / 120; loss 0.6891
+Accuracy on training set is 0.5550592509875164
+Accuracy on test set is 0.5533276663833192
+AUC on test set is 0.5730835169189831
+BCE loss of test set is 0.6848, JSD of the two dists is 0.0120
+Epoch   7 / 50, step    0 / 120; loss 0.6695
+Epoch   7 / 50, step   60 / 120; loss 0.6875
+Accuracy on training set is 0.5645844097401623
+Accuracy on test set is 0.5430771538576928
+AUC on test set is 0.5785310766613384
+BCE loss of test set is 0.6879, JSD of the two dists is 0.0076
+Epoch   8 / 50, step    0 / 120; loss 0.6826
+Epoch   8 / 50, step   60 / 120; loss 0.6748
+Accuracy on training set is 0.5675011250187503
+Accuracy on test set is 0.5561278063903196
+AUC on test set is 0.5825632473683287
+BCE loss of test set is 0.6860, JSD of the two dists is 0.0103
+Epoch   9 / 50, step    0 / 120; loss 0.6632
+Epoch   9 / 50, step   60 / 120; loss 0.6847
+Accuracy on training set is 0.5788429807163453
+Accuracy on test set is 0.5653282664133207
+AUC on test set is 0.5907144299662106
+BCE loss of test set is 0.6812, JSD of the two dists is 0.0172
+Epoch  10 / 50, step    0 / 120; loss 0.6703
+Epoch  10 / 50, step   60 / 120; loss 0.6695
+Accuracy on training set is 0.5853097551625861
+Accuracy on test set is 0.5536776838841942
+AUC on test set is 0.5907520737304929
+BCE loss of test set is 0.6838, JSD of the two dists is 0.0135
+Epoch  11 / 50, step    0 / 120; loss 0.6703
+Epoch  11 / 50, step   60 / 120; loss 0.6637
+Accuracy on training set is 0.5903098384973083
+Accuracy on test set is 0.5584779238961948
+AUC on test set is 0.596354668976011
+BCE loss of test set is 0.6858, JSD of the two dists is 0.0106
+Epoch  12 / 50, step    0 / 120; loss 0.6610
+Epoch  12 / 50, step   60 / 120; loss 0.6693
+Accuracy on training set is 0.5952432540542343
+Accuracy on test set is 0.5542277113855693
+AUC on test set is 0.5834732683681537
+BCE loss of test set is 0.6875, JSD of the two dists is 0.0082
+Epoch  13 / 50, step    0 / 120; loss 0.6533
+Epoch  13 / 50, step   60 / 120; loss 0.6506
+Accuracy on training set is 0.6060767679461324
+Accuracy on test set is 0.5744287214360718
+AUC on test set is 0.6032709405858813
+BCE loss of test set is 0.6825, JSD of the two dists is 0.0154
+Epoch  14 / 50, step    0 / 120; loss 0.6461
+Epoch  14 / 50, step   60 / 120; loss 0.6603
+Accuracy on training set is 0.6159269321155353
+Accuracy on test set is 0.5764788239411971
+AUC on test set is 0.6056587268585389
+BCE loss of test set is 0.6829, JSD of the two dists is 0.0147
+Epoch  15 / 50, step    0 / 120; loss 0.6364
+Epoch  15 / 50, step   60 / 120; loss 0.6370
+Accuracy on training set is 0.6220937015616927
+Accuracy on test set is 0.556252812640632
+AUC on test set is 0.5959709156016328
+BCE loss of test set is 0.6960, JSD of the two dists is -0.0041
+Epoch  16 / 50, step    0 / 120; loss 0.6570
+Epoch  16 / 50, step   60 / 120; loss 0.6308
+Accuracy on training set is 0.6246770779512992
+Accuracy on test set is 0.5732536626831342
+AUC on test set is 0.6042490008894665
+BCE loss of test set is 0.6866, JSD of the two dists is 0.0094
+Epoch  17 / 50, step    0 / 120; loss 0.6311
+Epoch  17 / 50, step   60 / 120; loss 0.6369
+Accuracy on training set is 0.6330938848980816
+Accuracy on test set is 0.5800790039501975
+AUC on test set is 0.6087652950075875
+BCE loss of test set is 0.6872, JSD of the two dists is 0.0085
+Epoch  18 / 50, step    0 / 120; loss 0.6160
+Epoch  18 / 50, step   60 / 120; loss 0.6169
+Accuracy on training set is 0.643169052817547
+Accuracy on test set is 0.5792539626981349
+AUC on test set is 0.608702428721116
+BCE loss of test set is 0.6990, JSD of the two dists is -0.0084
+Epoch  19 / 50, step    0 / 120; loss 0.6126
+Epoch  19 / 50, step   60 / 120; loss 0.6202
+Accuracy on training set is 0.6468191136518942
+Accuracy on test set is 0.58040402020101
+AUC on test set is 0.6066736583491508
+BCE loss of test set is 0.7060, JSD of the two dists is -0.0186
+Epoch  20 / 50, step    0 / 120; loss 0.5878
+Epoch  20 / 50, step   60 / 120; loss 0.6213
+Accuracy on training set is 0.6540525675427924
+Accuracy on test set is 0.5880794039701985
+AUC on test set is 0.6163312965888307
+BCE loss of test set is 0.7025, JSD of the two dists is -0.0135
+Epoch  21 / 50, step    0 / 120; loss 0.5862
+Epoch  21 / 50, step   60 / 120; loss 0.6147
+Accuracy on training set is 0.6604943415723595
+Accuracy on test set is 0.5880294014700735
+AUC on test set is 0.6145557265362643
+BCE loss of test set is 0.7039, JSD of the two dists is -0.0155
+Epoch  22 / 50, step    0 / 120; loss 0.5669
+Epoch  22 / 50, step   60 / 120; loss 0.5927
+Accuracy on training set is 0.6684944749079151
+Accuracy on test set is 0.5609530476523826
+AUC on test set is 0.6038828792782207
+BCE loss of test set is 0.7357, JSD of the two dists is -0.0614
+Epoch  23 / 50, step    0 / 120; loss 0.6045
+Epoch  23 / 50, step   60 / 120; loss 0.5780
+Accuracy on training set is 0.6695361589359823
+Accuracy on test set is 0.5895044752237611
+AUC on test set is 0.6163339143506004
+BCE loss of test set is 0.7155, JSD of the two dists is -0.0322
+Epoch  24 / 50, step    0 / 120; loss 0.5543
+Epoch  24 / 50, step   60 / 120; loss 0.5753
+Accuracy on training set is 0.6825697094951583
+Accuracy on test set is 0.5830541527076354
+AUC on test set is 0.6128787188396871
+BCE loss of test set is 0.7315, JSD of the two dists is -0.0553
+Epoch  25 / 50, step    0 / 120; loss 0.5798
+Epoch  25 / 50, step   60 / 120; loss 0.5906
+Accuracy on training set is 0.6854780913015217
+Accuracy on test set is 0.5894794739736987
+AUC on test set is 0.6175680252586058
+BCE loss of test set is 0.7338, JSD of the two dists is -0.0587
+Epoch  26 / 50, step    0 / 120; loss 0.5434
+Epoch  26 / 50, step   60 / 120; loss 0.5334
+Accuracy on training set is 0.6948199136652278
+Accuracy on test set is 0.5917295864793239
+AUC on test set is 0.6175490208582133
+BCE loss of test set is 0.7483, JSD of the two dists is -0.0796
+Epoch  27 / 50, step    0 / 120; loss 0.5546
+Epoch  27 / 50, step   60 / 120; loss 0.5756
+Accuracy on training set is 0.6955949265821098
+Accuracy on test set is 0.5654032701635082
+AUC on test set is 0.6071607795600541
+BCE loss of test set is 0.7732, JSD of the two dists is -0.1154
+Epoch  28 / 50, step    0 / 120; loss 0.5660
+Epoch  28 / 50, step   60 / 120; loss 0.5267
+Accuracy on training set is 0.7008700145002417
+Accuracy on test set is 0.5899794989749487
+AUC on test set is 0.6178714956048817
+BCE loss of test set is 0.7626, JSD of the two dists is -0.1002
+Epoch  29 / 50, step    0 / 120; loss 0.5427
+Epoch  29 / 50, step   60 / 120; loss 0.5471
+Accuracy on training set is 0.7047617460291005
+Accuracy on test set is 0.5894544727236362
+AUC on test set is 0.6126193354019919
+BCE loss of test set is 0.7682, JSD of the two dists is -0.1083
+Epoch  30 / 50, step    0 / 120; loss 0.5302
+Epoch  30 / 50, step   60 / 120; loss 0.5186
+Accuracy on training set is 0.7141785696428273
+Accuracy on test set is 0.5901795089754488
+AUC on test set is 0.6163342193811024
+BCE loss of test set is 0.7833, JSD of the two dists is -0.1301
+Epoch  31 / 50, step    0 / 120; loss 0.5300
+Epoch  31 / 50, step   60 / 120; loss 0.5322
+Accuracy on training set is 0.7210953515891931
+Accuracy on test set is 0.591629581479074
+AUC on test set is 0.617752859991617
+BCE loss of test set is 0.7957, JSD of the two dists is -0.1479
+Epoch  32 / 50, step    0 / 120; loss 0.5049
+Epoch  32 / 50, step   60 / 120; loss 0.5413
+Accuracy on training set is 0.722862047700795
+Accuracy on test set is 0.576128806440322
+AUC on test set is 0.6107655862817143
+BCE loss of test set is 0.8137, JSD of the two dists is -0.1739
+Epoch  33 / 50, step    0 / 120; loss 0.4998
+Epoch  33 / 50, step   60 / 120; loss 0.5064
+Accuracy on training set is 0.7293454890914849
+Accuracy on test set is 0.5910045502275114
+AUC on test set is 0.6131105082680506
+BCE loss of test set is 0.8230, JSD of the two dists is -0.1873
+Epoch  34 / 50, step    0 / 120; loss 0.4882
+Epoch  34 / 50, step   60 / 120; loss 0.5084
+Accuracy on training set is 0.7370206170102835
+Accuracy on test set is 0.5905295264763238
+AUC on test set is 0.6132509498118538
+BCE loss of test set is 0.8376, JSD of the two dists is -0.2084
+Epoch  35 / 50, step    0 / 120; loss 0.4682
+Epoch  35 / 50, step   60 / 120; loss 0.5262
+Accuracy on training set is 0.7395123252054201
+Accuracy on test set is 0.5906545327266364
+AUC on test set is 0.6172077367306537
+BCE loss of test set is 0.8529, JSD of the two dists is -0.2305
+Epoch  36 / 50, step    0 / 120; loss 0.4927
+Epoch  36 / 50, step   60 / 120; loss 0.5009
+Accuracy on training set is 0.7433540559009317
+Accuracy on test set is 0.5947797389869494
+AUC on test set is 0.616333338042971
+BCE loss of test set is 0.8745, JSD of the two dists is -0.2616
+Epoch  37 / 50, step    0 / 120; loss 0.4556
+Epoch  37 / 50, step   60 / 120; loss 0.4936
+Accuracy on training set is 0.7448707478457974
+Accuracy on test set is 0.5925796289814491
+AUC on test set is 0.6122915463739085
+BCE loss of test set is 0.8803, JSD of the two dists is -0.2700
+Epoch  38 / 50, step    0 / 120; loss 0.4762
+Epoch  38 / 50, step   60 / 120; loss 0.4781
+Accuracy on training set is 0.7502875047917466
+Accuracy on test set is 0.5943547177358868
+AUC on test set is 0.6202225869581394
+BCE loss of test set is 0.8882, JSD of the two dists is -0.2814
+Epoch  39 / 50, step    0 / 120; loss 0.4293
+Epoch  39 / 50, step   60 / 120; loss 0.4673
+Accuracy on training set is 0.7502458374306239
+Accuracy on test set is 0.5891294564728237
+AUC on test set is 0.6126682102893585
+BCE loss of test set is 0.9190, JSD of the two dists is -0.3259
+Epoch  40 / 50, step    0 / 120; loss 0.4713
+Epoch  40 / 50, step   60 / 120; loss 0.4644
+Accuracy on training set is 0.7552709211820197
+Accuracy on test set is 0.5893044652232612
+AUC on test set is 0.611261180839931
+BCE loss of test set is 0.9160, JSD of the two dists is -0.3216
+Epoch  41 / 50, step    0 / 120; loss 0.4579
+Epoch  41 / 50, step   60 / 120; loss 0.4202
+Accuracy on training set is 0.7597543292388207
+Accuracy on test set is 0.5949047452372619
+AUC on test set is 0.6146680327666065
+BCE loss of test set is 0.9354, JSD of the two dists is -0.3494
+Epoch  42 / 50, step    0 / 120; loss 0.4584
+Epoch  42 / 50, step   60 / 120; loss 0.4525
+Accuracy on training set is 0.7664044400740012
+Accuracy on test set is 0.5890794539726987
+AUC on test set is 0.6167370871668739
+BCE loss of test set is 0.9547, JSD of the two dists is -0.3774
+Epoch  43 / 50, step    0 / 120; loss 0.4399
+Epoch  43 / 50, step   60 / 120; loss 0.4193
+Accuracy on training set is 0.7704628410473507
+Accuracy on test set is 0.5949047452372619
+AUC on test set is 0.6171128134885668
+BCE loss of test set is 0.9692, JSD of the two dists is -0.3983
+Epoch  44 / 50, step    0 / 120; loss 0.4138
+Epoch  44 / 50, step   60 / 120; loss 0.4649
+Accuracy on training set is 0.7723045384089735
+Accuracy on test set is 0.5991049552477624
+AUC on test set is 0.6170650062079583
+BCE loss of test set is 0.9610, JSD of the two dists is -0.3865
+Epoch  45 / 50, step    0 / 120; loss 0.4188
+Epoch  45 / 50, step   60 / 120; loss 0.4503
+Accuracy on training set is 0.773646227437124
+Accuracy on test set is 0.5895544777238861
+AUC on test set is 0.6085214206207585
+BCE loss of test set is 1.0141, JSD of the two dists is -0.4630
+Epoch  46 / 50, step    0 / 120; loss 0.4226
+Epoch  46 / 50, step   60 / 120; loss 0.4366
+Accuracy on training set is 0.7801213353555893
+Accuracy on test set is 0.5967298364918245
+AUC on test set is 0.6152193603979914
+BCE loss of test set is 1.0116, JSD of the two dists is -0.4594
+Epoch  47 / 50, step    0 / 120; loss 0.4174
+Epoch  47 / 50, step   60 / 120; loss 0.4298
+Accuracy on training set is 0.7830630510508508
+Accuracy on test set is 0.5853542677133857
+AUC on test set is 0.6073628122628193
+BCE loss of test set is 1.0501, JSD of the two dists is -0.5150
+Epoch  48 / 50, step    0 / 120; loss 0.4362
+Epoch  48 / 50, step   60 / 120; loss 0.4187
+Accuracy on training set is 0.785113085218087
+Accuracy on test set is 0.5963798189909495
+AUC on test set is 0.6148511485777298
+BCE loss of test set is 1.0297, JSD of the two dists is -0.4856
+Epoch  49 / 50, step    0 / 120; loss 0.4005
+Epoch  49 / 50, step   60 / 120; loss 0.3934
+Accuracy on training set is 0.7892298204970083
+Accuracy on test set is 0.5886794339716986
+AUC on test set is 0.6119634310631977
+BCE loss of test set is 1.0711, JSD of the two dists is -0.5453
+Epoch  50 / 50, step    0 / 120; loss 0.4120
+Epoch  50 / 50, step   60 / 120; loss 0.3945
+Accuracy on training set is 0.7886881448024133
+Accuracy on test set is 0.5937546877343867
+AUC on test set is 0.611553572578374
+BCE loss of test set is 1.0806, JSD of the two dists is -0.5590
+classifier loaded successfully
+Now looking at independent dataset:
+Accuracy on test set is 0.5956202189890506
+AUC on test set is 0.6114947464966134
+BCE loss of test set is 0.9732, JSD of the two dists is -0.4040
+unrescaled calibration curve: [0.41966851 0.34824708 0.37106586 0.39615545 0.47927656 0.54227757
+ 0.61130742 0.66932536 0.63340292 0.60136086] [0.03324306 0.15181384 0.25183628 0.35147999 0.44988206 0.54875582
+ 0.64804878 0.74772869 0.84836402 0.97003599]
+Rescaled accuracy is 0.596195190240488
+rescaled AUC of dataset is 0.6151553691751941
+rescaled calibration curve: [0.         0.44871795 0.38279253 0.44680572 0.54439183 0.62712567
+ 0.65968586] [1.00000000e-06 2.78481013e-01 3.75873199e-01 4.53337145e-01
+ 5.49918067e-01 6.29104271e-01 7.13172055e-01]
+rescaled BCE loss of test set is 0.6718, rescaled JSD of the two dists is 0.0309
+Final result of classifier test cls-high for samples.hdf5 (AUC / JSD):
+0.6152 / 0.0309
+/var/spool/slurm/slurmd/job1171132/slurm_script: line 19: --which_cuda: command not found

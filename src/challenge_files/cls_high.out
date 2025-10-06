@@ -1,0 +1,2180 @@
+/home/fa7sa/bin/dvipng
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:225: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:230: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:204: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:224: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:221: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:293: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:293: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:315: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:321: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:293: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:315: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:321: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:293: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:315: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:321: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:293: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:315: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:321: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:293: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:311: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:314: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:385: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:406: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:385: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:406: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:407: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:413: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:385: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:406: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:385: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:406: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:407: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:413: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:385: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:406: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:407: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:413: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:403: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:477: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:498: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:499: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:505: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:495: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:569: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:590: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:591: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:597: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:587: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:836: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:854: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:857: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:858: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:864: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[i], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:747: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:766: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:770: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:776: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:747: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:766: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:770: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:776: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:747: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:766: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:770: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:776: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:747: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:766: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:769: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:770: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:776: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:766: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:766: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: divide by zero encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:680: RuntimeWarning: divide by zero encountered in divide
+  ratio_err = y_ref_err/counts_ref_norm
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:686: RuntimeWarning: invalid value encountered in subtract
+  ax[1].fill_between(bins, dup(ratio-ratio_err), dup(ratio+ratio_err), step='post', color=colors[j], alpha=0.2)
+/home/fa7sa/.conda/envs/torch_gpu_renew/lib/python3.11/site-packages/matplotlib/axes/_axes.py:3803: RuntimeWarning: invalid value encountered in add
+  low, high = dep + np.vstack([-(1 - lolims), 1 - uplims]) * err
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:657: RuntimeWarning: invalid value encountered in divide
+  geant_error = counts_ref_norm/np.sqrt(counts_ref)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:676: RuntimeWarning: invalid value encountered in divide
+  y_ref_err = counts_data_norm/np.sqrt(counts)
+/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_plotting_helper.py:679: RuntimeWarning: invalid value encountered in divide
+  ratio = counts_data / counts_ref
+Using Everywhere a cut of 0.01515
+what is the filename:  src/challenge_files/binning_dataset_2.xml
+Extracting showers from input file ...
+Extracting showers from input file: DONE.
+
+Cheking input file: /project//biocomplexity/fa7sa/calo_dreamer/results/20250707_100712_d2_vit_epoch_400_diffusion_SHOW_ONLY_DIFFUSION/samples.hdf5
+Checking for negative values, number of negative energies: 
+input:  0 
+
+Checking for nans in the generated sample, number of nans: 
+input:  0 
+
+Checking for infs in the generated sample, number of infs: 
+input:  0 
+
+Extracting showers from reference file ...
+Extracting showers from reference file: DONE.
+
+args.mode='all'
+Computing .pkl reference
+what is the filename:  src/challenge_files/binning_dataset_2.xml
+Loaded HLF object
+Plotting averages for input: samples.hdf5
+Plotting average shower next to reference...
+Layer id:  0
+shape of data_processed:  (1, 144)
+Layer id:  1
+shape of data_processed:  (1, 144)
+Layer id:  2
+shape of data_processed:  (1, 144)
+Layer id:  3
+shape of data_processed:  (1, 144)
+Layer id:  4
+shape of data_processed:  (1, 144)
+Layer id:  5
+shape of data_processed:  (1, 144)
+Layer id:  6
+shape of data_processed:  (1, 144)
+Layer id:  7
+shape of data_processed:  (1, 144)
+Layer id:  8
+shape of data_processed:  (1, 144)
+Layer id:  9
+shape of data_processed:  (1, 144)
+Layer id:  10
+shape of data_processed:  (1, 144)
+Layer id:  11
+shape of data_processed:  (1, 144)
+Layer id:  12
+shape of data_processed:  (1, 144)
+Layer id:  13
+shape of data_processed:  (1, 144)
+Layer id:  14
+shape of data_processed:  (1, 144)
+Layer id:  15
+shape of data_processed:  (1, 144)
+Layer id:  16
+shape of data_processed:  (1, 144)
+Layer id:  17
+shape of data_processed:  (1, 144)
+Layer id:  18
+shape of data_processed:  (1, 144)
+Layer id:  19
+shape of data_processed:  (1, 144)
+Layer id:  20
+shape of data_processed:  (1, 144)
+Layer id:  21
+shape of data_processed:  (1, 144)
+Layer id:  22
+shape of data_processed:  (1, 144)
+Layer id:  23
+shape of data_processed:  (1, 144)
+Layer id:  24
+shape of data_processed:  (1, 144)
+Layer id:  25
+shape of data_processed:  (1, 144)
+Layer id:  26
+shape of data_processed:  (1, 144)
+Layer id:  27
+shape of data_processed:  (1, 144)
+Layer id:  28
+shape of data_processed:  (1, 144)
+Layer id:  29
+shape of data_processed:  (1, 144)
+Layer id:  30
+shape of data_processed:  (1, 144)
+Layer id:  31
+shape of data_processed:  (1, 144)
+Layer id:  32
+shape of data_processed:  (1, 144)
+Layer id:  33
+shape of data_processed:  (1, 144)
+Layer id:  34
+shape of data_processed:  (1, 144)
+Layer id:  35
+shape of data_processed:  (1, 144)
+Layer id:  36
+shape of data_processed:  (1, 144)
+Layer id:  37
+shape of data_processed:  (1, 144)
+Layer id:  38
+shape of data_processed:  (1, 144)
+Layer id:  39
+shape of data_processed:  (1, 144)
+Layer id:  40
+shape of data_processed:  (1, 144)
+Layer id:  41
+shape of data_processed:  (1, 144)
+Layer id:  42
+shape of data_processed:  (1, 144)
+Layer id:  43
+shape of data_processed:  (1, 144)
+Layer id:  44
+shape of data_processed:  (1, 144)
+Plotting average shower next to reference: DONE.
+
+Plotting average shower...
+Plotting average shower: DONE.
+
+Plotting randomly selected reference and generated shower: 
+Plotting average showers for different energies for input samples.hdf5...
+Plotting average shower for different energies: DONE.
+
+Calculating high-level features for histograms ...
+Plotting histograms ...
+Separation power of Etot / Einc histogram: 0.0002462360403447641
+Separation power of E layer 0 histogram: 0.003912582878055636
+Separation power of E layer 1 histogram: 0.0005325689497009549
+Separation power of E layer 2 histogram: 0.0001759359443541283
+Separation power of E layer 3 histogram: 0.00014146285132395116
+Separation power of E layer 4 histogram: 0.00016862620613856169
+Separation power of E layer 5 histogram: 0.0002407862564837835
+Separation power of E layer 6 histogram: 0.0001848311447598714
+Separation power of E layer 7 histogram: 0.0002906750754360779
+Separation power of E layer 8 histogram: 0.00016290575885589574
+Separation power of E layer 9 histogram: 0.00022226182938643683
+Separation power of E layer 10 histogram: 0.00019768632454594882
+Separation power of E layer 11 histogram: 0.0003222122277490645
+Separation power of E layer 12 histogram: 0.0004377565974463934
+Separation power of E layer 13 histogram: 0.0005644929726367063
+Separation power of E layer 14 histogram: 0.000723253750481773
+Separation power of E layer 15 histogram: 0.0006954830680708684
+Separation power of E layer 16 histogram: 0.0006969452236282421
+Separation power of E layer 17 histogram: 0.0009256409972413534
+Separation power of E layer 18 histogram: 0.0007055555309655618
+Separation power of E layer 19 histogram: 0.0009228676946228997
+Separation power of E layer 20 histogram: 0.0007296487583465112
+Separation power of E layer 21 histogram: 0.0006915170290635935
+Separation power of E layer 22 histogram: 0.0009742591415242432
+Separation power of E layer 23 histogram: 0.000978422485161715
+Separation power of E layer 24 histogram: 0.0011098023705084412
+Separation power of E layer 25 histogram: 0.0014330487344941301
+Separation power of E layer 26 histogram: 0.0012051594389033665
+Separation power of E layer 27 histogram: 0.001271449583232843
+Separation power of E layer 28 histogram: 0.0011981878745089278
+Separation power of E layer 29 histogram: 0.0014968266241479169
+Separation power of E layer 30 histogram: 0.0016921059312324349
+Separation power of E layer 31 histogram: 0.00164640700850658
+Separation power of E layer 32 histogram: 0.0019560509903763074
+Separation power of E layer 33 histogram: 0.0016317567093499339
+Separation power of E layer 34 histogram: 0.0020420332121706816
+Separation power of E layer 35 histogram: 0.0017977626648435715
+Separation power of E layer 36 histogram: 0.0023112520210084135
+Separation power of E layer 37 histogram: 0.002683558346763332
+Separation power of E layer 38 histogram: 0.0027336868777373376
+Separation power of E layer 39 histogram: 0.0030470426850369055
+Separation power of E layer 40 histogram: 0.003325274469473873
+Separation power of E layer 41 histogram: 0.004675014078579894
+Separation power of E layer 42 histogram: 0.004346549717187345
+Separation power of E layer 43 histogram: 0.005096823783389081
+Separation power of E layer 44 histogram: 0.006805172281412575
+Separation power of EC Eta layer 0 histogram: 0.0005434961929903371
+Separation power of EC Eta layer 1 histogram: 0.0008234339680667987
+Separation power of EC Eta layer 2 histogram: 0.0010131553932669817
+Separation power of EC Eta layer 3 histogram: 0.001252036031657968
+Separation power of EC Eta layer 4 histogram: 0.0013072375356518817
+Separation power of EC Eta layer 5 histogram: 0.001316446060058168
+Separation power of EC Eta layer 6 histogram: 0.0009615366938726774
+Separation power of EC Eta layer 7 histogram: 0.0007936136472770245
+Separation power of EC Eta layer 8 histogram: 0.00070938262947841
+Separation power of EC Eta layer 9 histogram: 0.00058242764365978
+Separation power of EC Eta layer 10 histogram: 0.0005178395774832501
+Separation power of EC Eta layer 11 histogram: 0.0005690112073476813
+Separation power of EC Eta layer 12 histogram: 0.000444219650880024
+Separation power of EC Eta layer 13 histogram: 0.000493041541352899
+Separation power of EC Eta layer 14 histogram: 0.00036815890007970694
+Separation power of EC Eta layer 15 histogram: 0.00038734671876924177
+Separation power of EC Eta layer 16 histogram: 0.00043297671712182206
+Separation power of EC Eta layer 17 histogram: 0.00040963539900005196
+Separation power of EC Eta layer 18 histogram: 0.00038955735264129535
+Separation power of EC Eta layer 19 histogram: 0.00043363942658217766
+Separation power of EC Eta layer 20 histogram: 0.0004646712990711009
+Separation power of EC Eta layer 21 histogram: 0.00028901231142956275
+Separation power of EC Eta layer 22 histogram: 0.0005310634509856424
+Separation power of EC Eta layer 23 histogram: 0.00040038282153536325
+Separation power of EC Eta layer 24 histogram: 0.0004191674594430504
+Separation power of EC Eta layer 25 histogram: 0.00042722946295429187
+Separation power of EC Eta layer 26 histogram: 0.0003395508388653635
+Separation power of EC Eta layer 27 histogram: 0.0002535229992311512
+Separation power of EC Eta layer 28 histogram: 0.00035367126292712594
+Separation power of EC Eta layer 29 histogram: 0.0004387887947979557
+Separation power of EC Eta layer 30 histogram: 0.00030279936842312146
+Separation power of EC Eta layer 31 histogram: 0.0003503614200754383
+Separation power of EC Eta layer 32 histogram: 0.0003638878331043349
+Separation power of EC Eta layer 33 histogram: 0.000343108035298941
+Separation power of EC Eta layer 34 histogram: 0.00038510465167213996
+Separation power of EC Eta layer 35 histogram: 0.0003626029942251796
+Separation power of EC Eta layer 36 histogram: 0.00031375898674799194
+Separation power of EC Eta layer 37 histogram: 0.0002700461644898208
+Separation power of EC Eta layer 38 histogram: 0.00029117648050429524
+Separation power of EC Eta layer 39 histogram: 0.0003270944254957264
+Separation power of EC Eta layer 40 histogram: 0.0003314479671132301
+Separation power of EC Eta layer 41 histogram: 0.00027919022241484686
+Separation power of EC Eta layer 42 histogram: 0.00025695300867912445
+Separation power of EC Eta layer 43 histogram: 0.000382520625501624
+Separation power of EC Eta layer 44 histogram: 0.00034745149054273125
+Separation power of EC Phi layer 0 histogram: 0.0006414683791088689
+Separation power of EC Phi layer 1 histogram: 0.0009575953694242469
+Separation power of EC Phi layer 2 histogram: 0.0012588710045865464
+Separation power of EC Phi layer 3 histogram: 0.0010594292660073507
+Separation power of EC Phi layer 4 histogram: 0.0012766490453377498
+Separation power of EC Phi layer 5 histogram: 0.0011294209741802446
+Separation power of EC Phi layer 6 histogram: 0.0007158789285092318
+Separation power of EC Phi layer 7 histogram: 0.0007950743317209713
+Separation power of EC Phi layer 8 histogram: 0.0008386470095122327
+Separation power of EC Phi layer 9 histogram: 0.0006024216942243157
+Separation power of EC Phi layer 10 histogram: 0.0005544469836994639
+Separation power of EC Phi layer 11 histogram: 0.0004896713953085628
+Separation power of EC Phi layer 12 histogram: 0.0003835171380912521
+Separation power of EC Phi layer 13 histogram: 0.0005009092201258102
+Separation power of EC Phi layer 14 histogram: 0.0004447143525016086
+Separation power of EC Phi layer 15 histogram: 0.00045672615366480074
+Separation power of EC Phi layer 16 histogram: 0.00032219074755923964
+Separation power of EC Phi layer 17 histogram: 0.00044136304001900423
+Separation power of EC Phi layer 18 histogram: 0.00034949787536012053
+Separation power of EC Phi layer 19 histogram: 0.0004911426969111428
+Separation power of EC Phi layer 20 histogram: 0.0004276008778675913
+Separation power of EC Phi layer 21 histogram: 0.0002480771449523002
+Separation power of EC Phi layer 22 histogram: 0.00044617428340934
+Separation power of EC Phi layer 23 histogram: 0.00041043007248264704
+Separation power of EC Phi layer 24 histogram: 0.00033018985497952895
+Separation power of EC Phi layer 25 histogram: 0.00039219749748642445
+Separation power of EC Phi layer 26 histogram: 0.0002813690020802842
+Separation power of EC Phi layer 27 histogram: 0.00023887415070972799
+Separation power of EC Phi layer 28 histogram: 0.0003712245171189495
+Separation power of EC Phi layer 29 histogram: 0.0002693751361977019
+Separation power of EC Phi layer 30 histogram: 0.0003444564048173608
+Separation power of EC Phi layer 31 histogram: 0.0002843763473880471
+Separation power of EC Phi layer 32 histogram: 0.00036231021398588627
+Separation power of EC Phi layer 33 histogram: 0.00034751832517531257
+Separation power of EC Phi layer 34 histogram: 0.00037336587782881833
+Separation power of EC Phi layer 35 histogram: 0.00028713139138036094
+Separation power of EC Phi layer 36 histogram: 0.0002415918221416062
+Separation power of EC Phi layer 37 histogram: 0.00037309994426310754
+Separation power of EC Phi layer 38 histogram: 0.0003872790736136171
+Separation power of EC Phi layer 39 histogram: 0.00039801111543821843
+Separation power of EC Phi layer 40 histogram: 0.0003501728846298444
+Separation power of EC Phi layer 41 histogram: 0.00041662452864687344
+Separation power of EC Phi layer 42 histogram: 0.00034486704647780327
+Separation power of EC Phi layer 43 histogram: 0.0003607567894730848
+Separation power of EC Phi layer 44 histogram: 0.0004721577943817654
+Separation power of Width Eta layer 0 histogram: 0.0003224063703460501
+Separation power of Width Eta layer 1 histogram: 0.00028479215242443524
+Separation power of Width Eta layer 2 histogram: 0.00038300789442106183
+Separation power of Width Eta layer 3 histogram: 0.0006581449259990664
+Separation power of Width Eta layer 4 histogram: 0.0008914072564683035
+Separation power of Width Eta layer 5 histogram: 0.0007503759978902673
+Separation power of Width Eta layer 6 histogram: 0.0007243915821985611
+Separation power of Width Eta layer 7 histogram: 0.0009973600136306607
+Separation power of Width Eta layer 8 histogram: 0.0007350811988126296
+Separation power of Width Eta layer 9 histogram: 0.0009557607322493785
+Separation power of Width Eta layer 10 histogram: 0.0007968825674996103
+Separation power of Width Eta layer 11 histogram: 0.0007280352226715196
+Separation power of Width Eta layer 12 histogram: 0.0004270687870005698
+Separation power of Width Eta layer 13 histogram: 0.0004779029420687317
+Separation power of Width Eta layer 14 histogram: 0.0006721755529934646
+Separation power of Width Eta layer 15 histogram: 0.0006834962996011919
+Separation power of Width Eta layer 16 histogram: 0.0004767730956814008
+Separation power of Width Eta layer 17 histogram: 0.0005028086763463211
+Separation power of Width Eta layer 18 histogram: 0.00043212010606116704
+Separation power of Width Eta layer 19 histogram: 0.0003314348968505366
+Separation power of Width Eta layer 20 histogram: 0.0003596793201976272
+Separation power of Width Eta layer 21 histogram: 0.00033292874645928714
+Separation power of Width Eta layer 22 histogram: 0.0005532800298632186
+Separation power of Width Eta layer 23 histogram: 0.00041873439784549015
+Separation power of Width Eta layer 24 histogram: 0.00047524190859480096
+Separation power of Width Eta layer 25 histogram: 0.0004760040569578421
+Separation power of Width Eta layer 26 histogram: 0.0003137479648624963
+Separation power of Width Eta layer 27 histogram: 0.0004577909819613851
+Separation power of Width Eta layer 28 histogram: 0.00046224201812404927
+Separation power of Width Eta layer 29 histogram: 0.0003590220554152126
+Separation power of Width Eta layer 30 histogram: 0.00036089017387241055
+Separation power of Width Eta layer 31 histogram: 0.00035544625602983203
+Separation power of Width Eta layer 32 histogram: 0.00036749359107535217
+Separation power of Width Eta layer 33 histogram: 0.00032516479792714864
+Separation power of Width Eta layer 34 histogram: 0.00039422917565368117
+Separation power of Width Eta layer 35 histogram: 0.00041729795809210095
+Separation power of Width Eta layer 36 histogram: 0.00039454660661217
+Separation power of Width Eta layer 37 histogram: 0.00039737094346309034
+Separation power of Width Eta layer 38 histogram: 0.0002967190046207801
+Separation power of Width Eta layer 39 histogram: 0.0003035097000656376
+Separation power of Width Eta layer 40 histogram: 0.00045760022828196127
+Separation power of Width Eta layer 41 histogram: 0.0003824181891079987
+Separation power of Width Eta layer 42 histogram: 0.0003681514725454885
+Separation power of Width Eta layer 43 histogram: 0.00042049131479036575
+Separation power of Width Eta layer 44 histogram: 0.00040483752653800483
+Separation power of Width Phi layer 0 histogram: 0.00030224318760154666
+Separation power of Width Phi layer 1 histogram: 0.0003328118953784844
+Separation power of Width Phi layer 2 histogram: 0.000580753085675261
+Separation power of Width Phi layer 3 histogram: 0.0005546528920910165
+Separation power of Width Phi layer 4 histogram: 0.0007946582812077164
+Separation power of Width Phi layer 5 histogram: 0.0008774807939176184
+Separation power of Width Phi layer 6 histogram: 0.0007349685697303455
+Separation power of Width Phi layer 7 histogram: 0.000880283702822698
+Separation power of Width Phi layer 8 histogram: 0.0009662889555353208
+Separation power of Width Phi layer 9 histogram: 0.0005994137734375421
+Separation power of Width Phi layer 10 histogram: 0.0008768784803948554
+Separation power of Width Phi layer 11 histogram: 0.000671078456336724
+Separation power of Width Phi layer 12 histogram: 0.0005846571545558468
+Separation power of Width Phi layer 13 histogram: 0.0005695957040892198
+Separation power of Width Phi layer 14 histogram: 0.0006804201019209198
+Separation power of Width Phi layer 15 histogram: 0.0004740583012022703
+Separation power of Width Phi layer 16 histogram: 0.0006320772655458135
+Separation power of Width Phi layer 17 histogram: 0.0006198902690632735
+Separation power of Width Phi layer 18 histogram: 0.00039856372432430485
+Separation power of Width Phi layer 19 histogram: 0.0004049909509327498
+Separation power of Width Phi layer 20 histogram: 0.0005982675755796163
+Separation power of Width Phi layer 21 histogram: 0.0003456076024697636
+Separation power of Width Phi layer 22 histogram: 0.00038954791407347106
+Separation power of Width Phi layer 23 histogram: 0.00047009001756741984
+Separation power of Width Phi layer 24 histogram: 0.00043973443743448534
+Separation power of Width Phi layer 25 histogram: 0.0005201103485380845
+Separation power of Width Phi layer 26 histogram: 0.00037208412465572504
+Separation power of Width Phi layer 27 histogram: 0.00037202930161739036
+Separation power of Width Phi layer 28 histogram: 0.0003544313743243358
+Separation power of Width Phi layer 29 histogram: 0.0004643219381292672
+Separation power of Width Phi layer 30 histogram: 0.0002679907759549998
+Separation power of Width Phi layer 31 histogram: 0.00043641727165927004
+Separation power of Width Phi layer 32 histogram: 0.00040555602451573786
+Separation power of Width Phi layer 33 histogram: 0.00042893164050326156
+Separation power of Width Phi layer 34 histogram: 0.0004798439053045608
+Separation power of Width Phi layer 35 histogram: 0.0002953014075666602
+Separation power of Width Phi layer 36 histogram: 0.00035841349168921975
+Separation power of Width Phi layer 37 histogram: 0.00042755453113461233
+Separation power of Width Phi layer 38 histogram: 0.0003242353383209772
+Separation power of Width Phi layer 39 histogram: 0.000348118280148621
+Separation power of Width Phi layer 40 histogram: 0.00042315309904618397
+Separation power of Width Phi layer 41 histogram: 0.00045254727758852804
+Separation power of Width Phi layer 42 histogram: 0.0003867897103441818
+Separation power of Width Phi layer 43 histogram: 0.0003563822033067504
+Separation power of Width Phi layer 44 histogram: 0.0004853169766071391
+Separation power of Sparsity layer 0 histogram: 9.132108461186363e-05
+Separation power of Sparsity layer 1 histogram: 6.252222780149563e-05
+Separation power of Sparsity layer 2 histogram: 0.00011551593744069332
+Separation power of Sparsity layer 3 histogram: 7.70975711178794e-05
+Separation power of Sparsity layer 4 histogram: 7.642410124663506e-05
+Separation power of Sparsity layer 5 histogram: 3.893849758811514e-05
+Separation power of Sparsity layer 6 histogram: 5.255272948508863e-05
+Separation power of Sparsity layer 7 histogram: 5.9920934928874786e-05
+Separation power of Sparsity layer 8 histogram: 5.614392092449291e-05
+Separation power of Sparsity layer 9 histogram: 8.542481498585468e-05
+Separation power of Sparsity layer 10 histogram: 9.06295804196724e-05
+Separation power of Sparsity layer 11 histogram: 8.435329152223602e-05
+Separation power of Sparsity layer 12 histogram: 8.886381861778884e-05
+Separation power of Sparsity layer 13 histogram: 8.015171037281583e-05
+Separation power of Sparsity layer 14 histogram: 8.693996148981795e-05
+Separation power of Sparsity layer 15 histogram: 7.243485816737813e-05
+Separation power of Sparsity layer 16 histogram: 7.994870205801093e-05
+Separation power of Sparsity layer 17 histogram: 7.042486240587951e-05
+Separation power of Sparsity layer 18 histogram: 0.0001050374557829597
+Separation power of Sparsity layer 19 histogram: 6.262939126510671e-05
+Separation power of Sparsity layer 20 histogram: 6.203202277865774e-05
+Separation power of Sparsity layer 21 histogram: 0.00016378003294036128
+Separation power of Sparsity layer 22 histogram: 6.554018273520178e-05
+Separation power of Sparsity layer 23 histogram: 7.249735663755088e-05
+Separation power of Sparsity layer 24 histogram: 0.00010777845569845974
+Separation power of Sparsity layer 25 histogram: 6.042071217588961e-05
+Separation power of Sparsity layer 26 histogram: 9.12180475593174e-05
+Separation power of Sparsity layer 27 histogram: 5.2921253734134164e-05
+Separation power of Sparsity layer 28 histogram: 7.089535303616384e-05
+Separation power of Sparsity layer 29 histogram: 0.00010876013042808428
+Separation power of Sparsity layer 30 histogram: 0.00012112256384023365
+Separation power of Sparsity layer 31 histogram: 0.00014243891040142183
+Separation power of Sparsity layer 32 histogram: 8.907321135857069e-05
+Separation power of Sparsity layer 33 histogram: 0.00011670933332914826
+Separation power of Sparsity layer 34 histogram: 0.0001381492945112218
+Separation power of Sparsity layer 35 histogram: 8.856196917277493e-05
+Separation power of Sparsity layer 36 histogram: 0.0001859313795435788
+Separation power of Sparsity layer 37 histogram: 0.0001861298246660754
+Separation power of Sparsity layer 38 histogram: 0.0001797846199083476
+Separation power of Sparsity layer 39 histogram: 0.00018686672615749763
+Separation power of Sparsity layer 40 histogram: 0.0001894492299989591
+Separation power of Sparsity layer 41 histogram: 0.00026444377257859843
+Separation power of Sparsity layer 42 histogram: 0.00023015806705496979
+Separation power of Sparsity layer 43 histogram: 0.00021961128789766253
+Separation power of Sparsity layer 44 histogram: 0.0002474668110339945
+Separation power of Weighted depth ring 0 histogram: 0.0003597364789833316
+Separation power of Weighted depth ring 1 histogram: 0.0002839046204190281
+Separation power of Weighted depth ring 2 histogram: 0.00027273892608003245
+Separation power of Weighted depth ring 3 histogram: 0.0004268007740326445
+Separation power of Weighted depth ring 4 histogram: 0.00041343319917917597
+Separation power of Weighted depth ring 5 histogram: 0.00045948327898123997
+Separation power of Weighted depth ring 6 histogram: 0.0005308559426817796
+Separation power of Weighted depth ring 7 histogram: 0.0004935470475571405
+Separation power of Weighted depth ring 8 histogram: 0.0006726282521025714
+Separation power of Weighted depth slice 0 histogram: 0.00042637728952297886
+Separation power of Weighted depth slice 1 histogram: 0.0004035965253271211
+Separation power of Weighted depth slice 2 histogram: 0.000426083256915395
+Separation power of Weighted depth slice 3 histogram: 0.00028881617324223757
+Separation power of Weighted depth slice 4 histogram: 0.00032910282723622674
+Separation power of Weighted depth slice 5 histogram: 0.00029282547564722015
+Separation power of Weighted depth slice 6 histogram: 0.00038285959832601714
+Separation power of Weighted depth slice 7 histogram: 0.000505498669919717
+Separation power of Weighted depth slice 8 histogram: 0.0004338657128846684
+Separation power of Weighted depth slice 9 histogram: 0.0004232044038857026
+Separation power of Weighted depth slice 10 histogram: 0.0003809820411173792
+Separation power of Weighted depth slice 11 histogram: 0.00035239944197224216
+Separation power of Weighted depth slice 12 histogram: 0.00034981391757302985
+Separation power of Weighted depth slice 13 histogram: 0.0004049701139511709
+Separation power of Weighted depth slice 14 histogram: 0.00036661966160417796
+Separation power of Weighted depth slice 15 histogram: 0.00029759331887130834
+Separation power of voxel distribution histogram: 0.0019442125496828106
+Plotting histograms: DONE. 
+
+at classification branch
+in classification branch
+Calculating high-level features for classifier for input {input_name}...
+Using 0.01515 as cut for the showers ...
+Calculating high-level features for classifer: DONE.
+
+119998 39998 40002
+Using cuda:0
+DNN(
+  (inputlayer): Linear(in_features=6481, out_features=512, bias=True)
+  (outputlayer): Linear(in_features=512, out_features=1, bias=True)
+  (layers): Sequential(
+    (0): Linear(in_features=6481, out_features=512, bias=True)
+    (1): LeakyReLU(negative_slope=0.01)
+    (2): Dropout(p=0.0, inplace=False)
+    (3): Linear(in_features=512, out_features=512, bias=True)
+    (4): LeakyReLU(negative_slope=0.01)
+    (5): Dropout(p=0.0, inplace=False)
+    (6): Linear(in_features=512, out_features=512, bias=True)
+    (7): LeakyReLU(negative_slope=0.01)
+    (8): Dropout(p=0.0, inplace=False)
+    (9): Linear(in_features=512, out_features=1, bias=True)
+  )
+)
+all has 3844609 parameters
+Epoch   1 / 50, step    0 / 120; loss 0.6939
+Epoch   1 / 50, step   60 / 120; loss 0.6931
+Accuracy on training set is 0.4983416390273171
+Accuracy on test set is 0.5
+AUC on test set is 0.5113717633979105
+BCE loss of test set is 0.6932, JSD of the two dists is -0.0000
+Epoch   2 / 50, step    0 / 120; loss 0.6931
+Epoch   2 / 50, step   60 / 120; loss 0.6931
+Accuracy on training set is 0.49913331888864815
+Accuracy on test set is 0.5000250012500626
+AUC on test set is 0.5145348772013829
+BCE loss of test set is 0.6931, JSD of the two dists is 0.0000
+Epoch   3 / 50, step    0 / 120; loss 0.6932
+Epoch   3 / 50, step   60 / 120; loss 0.6934
+Accuracy on training set is 0.5015083584726412
+Accuracy on test set is 0.5
+AUC on test set is 0.5152808317949775
+BCE loss of test set is 0.6932, JSD of the two dists is -0.0001
+Epoch   4 / 50, step    0 / 120; loss 0.6924
+Epoch   4 / 50, step   60 / 120; loss 0.6933
+Accuracy on training set is 0.500541675694595
+Accuracy on test set is 0.5001250062503125
+AUC on test set is 0.5162231410235445
+BCE loss of test set is 0.6931, JSD of the two dists is 0.0000
+Epoch   5 / 50, step    0 / 120; loss 0.6928
+Epoch   5 / 50, step   60 / 120; loss 0.6930
+Accuracy on training set is 0.5109585159752662
+Accuracy on test set is 0.5022751137556878
+AUC on test set is 0.5291894951265389
+BCE loss of test set is 0.6931, JSD of the two dists is 0.0001
+Epoch   6 / 50, step    0 / 120; loss 0.6925
+Epoch   6 / 50, step   60 / 120; loss 0.6919
+Accuracy on training set is 0.521475357922632
+Accuracy on test set is 0.5267263363168159
+AUC on test set is 0.5344724009039095
+BCE loss of test set is 0.6920, JSD of the two dists is 0.0016
+Epoch   7 / 50, step    0 / 120; loss 0.6899
+Epoch   7 / 50, step   60 / 120; loss 0.6896
+Accuracy on training set is 0.5419840330672178
+Accuracy on test set is 0.5221011050552528
+AUC on test set is 0.540853904038269
+BCE loss of test set is 0.6926, JSD of the two dists is 0.0007
+Epoch   8 / 50, step    0 / 120; loss 0.6846
+Epoch   8 / 50, step   60 / 120; loss 0.6816
+Accuracy on training set is 0.5566009433490559
+Accuracy on test set is 0.5384769238461923
+AUC on test set is 0.5444150001389765
+BCE loss of test set is 0.6934, JSD of the two dists is -0.0003
+Epoch   9 / 50, step    0 / 120; loss 0.6821
+Epoch   9 / 50, step   60 / 120; loss 0.6771
+Accuracy on training set is 0.5682344705745096
+Accuracy on test set is 0.5192759637981899
+AUC on test set is 0.5460086244974283
+BCE loss of test set is 0.6986, JSD of the two dists is -0.0079
+Epoch  10 / 50, step    0 / 120; loss 0.6689
+Epoch  10 / 50, step   60 / 120; loss 0.6774
+Accuracy on training set is 0.5711761862697712
+Accuracy on test set is 0.5371768588429422
+AUC on test set is 0.5472179579277479
+BCE loss of test set is 0.6982, JSD of the two dists is -0.0073
+Epoch  11 / 50, step    0 / 120; loss 0.6683
+Epoch  11 / 50, step   60 / 120; loss 0.6714
+Accuracy on training set is 0.5789763162719379
+Accuracy on test set is 0.5207010350517526
+AUC on test set is 0.5475749286239251
+BCE loss of test set is 0.7029, JSD of the two dists is -0.0141
+Epoch  12 / 50, step    0 / 120; loss 0.6623
+Epoch  12 / 50, step   60 / 120; loss 0.6638
+Accuracy on training set is 0.5845930765512759
+Accuracy on test set is 0.5324266213310666
+AUC on test set is 0.5480204456745164
+BCE loss of test set is 0.7017, JSD of the two dists is -0.0123
+Epoch  13 / 50, step    0 / 120; loss 0.6587
+Epoch  13 / 50, step   60 / 120; loss 0.6693
+Accuracy on training set is 0.5886348105801763
+Accuracy on test set is 0.5309015450772538
+AUC on test set is 0.5506055841819042
+BCE loss of test set is 0.7033, JSD of the two dists is -0.0146
+Epoch  14 / 50, step    0 / 120; loss 0.6756
+Epoch  14 / 50, step   60 / 120; loss 0.6677
+Accuracy on training set is 0.5902348372472874
+Accuracy on test set is 0.5334016700835041
+AUC on test set is 0.5504449331171994
+BCE loss of test set is 0.7045, JSD of the two dists is -0.0164
+Epoch  15 / 50, step    0 / 120; loss 0.6523
+Epoch  15 / 50, step   60 / 120; loss 0.6665
+Accuracy on training set is 0.5946099101651694
+Accuracy on test set is 0.5290764538226911
+AUC on test set is 0.5523955931783289
+BCE loss of test set is 0.7108, JSD of the two dists is -0.0255
+Epoch  16 / 50, step    0 / 120; loss 0.6521
+Epoch  16 / 50, step   60 / 120; loss 0.6780
+Accuracy on training set is 0.6020850347505792
+Accuracy on test set is 0.5412270613530676
+AUC on test set is 0.5543936754815639
+BCE loss of test set is 0.7057, JSD of the two dists is -0.0180
+Epoch  17 / 50, step    0 / 120; loss 0.6453
+Epoch  17 / 50, step   60 / 120; loss 0.6583
+Accuracy on training set is 0.6141602360039334
+Accuracy on test set is 0.5371018550927547
+AUC on test set is 0.5559978933993452
+BCE loss of test set is 0.7181, JSD of the two dists is -0.0360
+Epoch  18 / 50, step    0 / 120; loss 0.6329
+Epoch  18 / 50, step   60 / 120; loss 0.6362
+Accuracy on training set is 0.6182686378106301
+Accuracy on test set is 0.5388769438471923
+AUC on test set is 0.5583365147556343
+BCE loss of test set is 0.7174, JSD of the two dists is -0.0351
+Epoch  19 / 50, step    0 / 120; loss 0.6405
+Epoch  19 / 50, step   60 / 120; loss 0.6226
+Accuracy on training set is 0.6186603110051834
+Accuracy on test set is 0.5415020751037551
+AUC on test set is 0.5582814542497214
+BCE loss of test set is 0.7210, JSD of the two dists is -0.0402
+Epoch  20 / 50, step    0 / 120; loss 0.6214
+Epoch  20 / 50, step   60 / 120; loss 0.6375
+Accuracy on training set is 0.6332522208703478
+Accuracy on test set is 0.527926396319816
+AUC on test set is 0.5579474958547168
+BCE loss of test set is 0.7446, JSD of the two dists is -0.0742
+Epoch  21 / 50, step    0 / 120; loss 0.6403
+Epoch  21 / 50, step   60 / 120; loss 0.6197
+Accuracy on training set is 0.6384273071217854
+Accuracy on test set is 0.5494524726236312
+AUC on test set is 0.5615676553616171
+BCE loss of test set is 0.7321, JSD of the two dists is -0.0562
+Epoch  22 / 50, step    0 / 120; loss 0.5969
+Epoch  22 / 50, step   60 / 120; loss 0.6046
+Accuracy on training set is 0.6527025450424174
+Accuracy on test set is 0.5408270413520676
+AUC on test set is 0.5605290640050778
+BCE loss of test set is 0.7623, JSD of the two dists is -0.0998
+Epoch  23 / 50, step    0 / 120; loss 0.5998
+Epoch  23 / 50, step   60 / 120; loss 0.6008
+Accuracy on training set is 0.6621527025450424
+Accuracy on test set is 0.5489274463723186
+AUC on test set is 0.5594730134026578
+BCE loss of test set is 0.7656, JSD of the two dists is -0.1045
+Epoch  24 / 50, step    0 / 120; loss 0.5703
+Epoch  24 / 50, step   60 / 120; loss 0.5736
+Accuracy on training set is 0.6687028117135285
+Accuracy on test set is 0.5503525176258813
+AUC on test set is 0.562247003294712
+BCE loss of test set is 0.7812, JSD of the two dists is -0.1270
+Epoch  25 / 50, step    0 / 120; loss 0.5612
+Epoch  25 / 50, step   60 / 120; loss 0.5643
+Accuracy on training set is 0.6807613460224337
+Accuracy on test set is 0.5472523626181309
+AUC on test set is 0.5591179353957447
+BCE loss of test set is 0.7974, JSD of the two dists is -0.1504
+Epoch  26 / 50, step    0 / 120; loss 0.5615
+Epoch  26 / 50, step   60 / 120; loss 0.5375
+Accuracy on training set is 0.6961032683878065
+Accuracy on test set is 0.5504525226261313
+AUC on test set is 0.5626703431276369
+BCE loss of test set is 0.8265, JSD of the two dists is -0.1924
+Epoch  27 / 50, step    0 / 120; loss 0.5214
+Epoch  27 / 50, step   60 / 120; loss 0.5553
+Accuracy on training set is 0.7063617726962116
+Accuracy on test set is 0.5520026001300065
+AUC on test set is 0.5606015537538716
+BCE loss of test set is 0.8586, JSD of the two dists is -0.2388
+Epoch  28 / 50, step    0 / 120; loss 0.5062
+Epoch  28 / 50, step   60 / 120; loss 0.5262
+Accuracy on training set is 0.7165119418656978
+Accuracy on test set is 0.5504525226261313
+AUC on test set is 0.5618558454299034
+BCE loss of test set is 0.8938, JSD of the two dists is -0.2894
+Epoch  29 / 50, step    0 / 120; loss 0.5138
+Epoch  29 / 50, step   60 / 120; loss 0.4984
+Accuracy on training set is 0.7206703445057417
+Accuracy on test set is 0.5437021851092555
+AUC on test set is 0.5594376186132672
+BCE loss of test set is 0.9310, JSD of the two dists is -0.3432
+Epoch  30 / 50, step    0 / 120; loss 0.5057
+Epoch  30 / 50, step   60 / 120; loss 0.4866
+Accuracy on training set is 0.7326705445090752
+Accuracy on test set is 0.5475273763688184
+AUC on test set is 0.5578437604814388
+BCE loss of test set is 0.9280, JSD of the two dists is -0.3388
+Epoch  31 / 50, step    0 / 120; loss 0.4743
+Epoch  31 / 50, step   60 / 120; loss 0.4743
+Accuracy on training set is 0.7370539508991817
+Accuracy on test set is 0.5514275713785689
+AUC on test set is 0.5604915652552966
+BCE loss of test set is 0.9872, JSD of the two dists is -0.4242
+Epoch  32 / 50, step    0 / 120; loss 0.4565
+Epoch  32 / 50, step   60 / 120; loss 0.4746
+Accuracy on training set is 0.7469041150685845
+Accuracy on test set is 0.5531276563828191
+AUC on test set is 0.560900296127362
+BCE loss of test set is 1.0188, JSD of the two dists is -0.4699
+Epoch  33 / 50, step    0 / 120; loss 0.4439
+Epoch  33 / 50, step   60 / 120; loss 0.4522
+Accuracy on training set is 0.7561876031267187
+Accuracy on test set is 0.551677583879194
+AUC on test set is 0.5608211182097682
+BCE loss of test set is 1.0861, JSD of the two dists is -0.5668
+Epoch  34 / 50, step    0 / 120; loss 0.4525
+Epoch  34 / 50, step   60 / 120; loss 0.4401
+Accuracy on training set is 0.764104401740029
+Accuracy on test set is 0.5513525676283815
+AUC on test set is 0.5585471720708391
+BCE loss of test set is 1.0858, JSD of the two dists is -0.5665
+Epoch  35 / 50, step    0 / 120; loss 0.4388
+Epoch  35 / 50, step   60 / 120; loss 0.4239
+Accuracy on training set is 0.7724878747979133
+Accuracy on test set is 0.5518525926296315
+AUC on test set is 0.5596166840193602
+BCE loss of test set is 1.1324, JSD of the two dists is -0.6336
+Epoch  36 / 50, step    0 / 120; loss 0.4120
+Epoch  36 / 50, step   60 / 120; loss 0.3972
+Accuracy on training set is 0.7804796746612443
+Accuracy on test set is 0.5522276113805691
+AUC on test set is 0.5588481109139711
+BCE loss of test set is 1.1953, JSD of the two dists is -0.7245
+Epoch  37 / 50, step    0 / 120; loss 0.3987
+Epoch  37 / 50, step   60 / 120; loss 0.4151
+Accuracy on training set is 0.7823963732728879
+Accuracy on test set is 0.551977598879944
+AUC on test set is 0.5600002873787372
+BCE loss of test set is 1.2134, JSD of the two dists is -0.7505
+Epoch  38 / 50, step    0 / 120; loss 0.3781
+Epoch  38 / 50, step   60 / 120; loss 0.4041
+Accuracy on training set is 0.7913881898031634
+Accuracy on test set is 0.556602830141507
+AUC on test set is 0.5607292440225791
+BCE loss of test set is 1.2764, JSD of the two dists is -0.8414
+Epoch  39 / 50, step    0 / 120; loss 0.3936
+Epoch  39 / 50, step   60 / 120; loss 0.3819
+Accuracy on training set is 0.7960882681378023
+Accuracy on test set is 0.5554027701385069
+AUC on test set is 0.5609420678044252
+BCE loss of test set is 1.3355, JSD of the two dists is -0.9267
+Epoch  40 / 50, step    0 / 120; loss 0.3808
+Epoch  40 / 50, step   60 / 120; loss 0.4039
+Accuracy on training set is 0.8009133485558093
+Accuracy on test set is 0.5542527126356318
+AUC on test set is 0.559726124963181
+BCE loss of test set is 1.3589, JSD of the two dists is -0.9605
+Epoch  41 / 50, step    0 / 120; loss 0.3552
+Epoch  41 / 50, step   60 / 120; loss 0.3720
+Accuracy on training set is 0.8039800663344389
+Accuracy on test set is 0.5450272513625681
+AUC on test set is 0.5590893362859053
+BCE loss of test set is 1.4076, JSD of the two dists is -1.0307
+Epoch  42 / 50, step    0 / 120; loss 0.3699
+Epoch  42 / 50, step   60 / 120; loss 0.3554
+Accuracy on training set is 0.8152802546709111
+Accuracy on test set is 0.5505275263763189
+AUC on test set is 0.5588777338761932
+BCE loss of test set is 1.4705, JSD of the two dists is -1.1215
+Epoch  43 / 50, step    0 / 120; loss 0.3295
+Epoch  43 / 50, step   60 / 120; loss 0.3834
+Accuracy on training set is 0.8018550309171819
+Accuracy on test set is 0.5553277663883194
+AUC on test set is 0.558584357039243
+BCE loss of test set is 1.4251, JSD of the two dists is -1.0559
+Epoch  44 / 50, step    0 / 120; loss 0.3740
+Epoch  44 / 50, step   60 / 120; loss 0.3406
+Accuracy on training set is 0.8141219020317005
+Accuracy on test set is 0.5580029001450072
+AUC on test set is 0.5614892787741542
+BCE loss of test set is 1.4991, JSD of the two dists is -1.1627
+Epoch  45 / 50, step    0 / 120; loss 0.3313
+Epoch  45 / 50, step   60 / 120; loss 0.3167
+Accuracy on training set is 0.8228720478674645
+Accuracy on test set is 0.5577528876443822
+AUC on test set is 0.5609498260802335
+BCE loss of test set is 1.5689, JSD of the two dists is -1.2634
+Epoch  46 / 50, step    0 / 120; loss 0.3166
+Epoch  46 / 50, step   60 / 120; loss 0.3207
+Accuracy on training set is 0.8274637910631844
+Accuracy on test set is 0.5518525926296315
+AUC on test set is 0.5617591395095531
+BCE loss of test set is 1.6313, JSD of the two dists is -1.3535
+Epoch  47 / 50, step    0 / 120; loss 0.3332
+Epoch  47 / 50, step   60 / 120; loss 0.3722
+Accuracy on training set is 0.8300138335638927
+Accuracy on test set is 0.5590529526476323
+AUC on test set is 0.5626081869121707
+BCE loss of test set is 1.7337, JSD of the two dists is -1.5012
+Epoch  48 / 50, step    0 / 120; loss 0.3127
+Epoch  48 / 50, step   60 / 120; loss 0.3238
+Accuracy on training set is 0.8319555325922099
+Accuracy on test set is 0.5489524476223812
+AUC on test set is 0.558403950249015
+BCE loss of test set is 1.7426, JSD of the two dists is -1.5140
+Epoch  49 / 50, step    0 / 120; loss 0.3278
+Epoch  49 / 50, step   60 / 120; loss 0.3083
+Accuracy on training set is 0.8375472924548742
+Accuracy on test set is 0.5539526976348818
+AUC on test set is 0.5568964082485838
+BCE loss of test set is 1.7804, JSD of the two dists is -1.5685
+Epoch  50 / 50, step    0 / 120; loss 0.3064
+Epoch  50 / 50, step   60 / 120; loss 0.2757
+Accuracy on training set is 0.8394723245387423
+Accuracy on test set is 0.5513275663783189
+AUC on test set is 0.5565663939979837
+BCE loss of test set is 1.7538, JSD of the two dists is -1.5302
+classifier loaded successfully
+Now looking at independent dataset:
+Accuracy on test set is 0.5608719564021799
+AUC on test set is 0.5644290244364838
+BCE loss of test set is 1.7344, JSD of the two dists is -1.5022
+unrescaled calibration curve: [0.45063291 0.43488943 0.41377227 0.42656827 0.45897501 0.51787879
+ 0.5517935  0.58021807 0.58982166 0.56757683] [0.02350847 0.15130575 0.25363795 0.35028124 0.44897465 0.54881736
+ 0.64808688 0.74916586 0.85078967 0.98154063]
+Rescaled accuracy is 0.55977201139943
+rescaled AUC of dataset is 0.567938674712682
+rescaled calibration curve: [0.44183331 0.5609162  0.63157895] [0.4409847  0.56183822 0.65259957]
+rescaled BCE loss of test set is 0.6853, rescaled JSD of the two dists is 0.0113
+Final result of classifier test cls-low for samples.hdf5 (AUC / JSD):
+0.5679 / 0.0113
+119998 39998 40002
+Using cuda:0
+DNN(
+  (inputlayer): Linear(in_features=226, out_features=512, bias=True)
+  (outputlayer): Linear(in_features=512, out_features=1, bias=True)
+  (layers): Sequential(
+    (0): Linear(in_features=226, out_features=512, bias=True)
+    (1): LeakyReLU(negative_slope=0.01)
+    (2): Dropout(p=0.0, inplace=False)
+    (3): Linear(in_features=512, out_features=512, bias=True)
+    (4): LeakyReLU(negative_slope=0.01)
+    (5): Dropout(p=0.0, inplace=False)
+    (6): Linear(in_features=512, out_features=512, bias=True)
+    (7): LeakyReLU(negative_slope=0.01)
+    (8): Dropout(p=0.0, inplace=False)
+    (9): Linear(in_features=512, out_features=1, bias=True)
+  )
+)
+all has 642049 parameters
+Epoch   1 / 50, step    0 / 120; loss 0.6946
+Epoch   1 / 50, step   60 / 120; loss 0.6938
+Accuracy on training set is 0.5049000816680278
+Accuracy on test set is 0.5054752737636882
+AUC on test set is 0.5114286165830867
+BCE loss of test set is 0.6932, JSD of the two dists is -0.0000
+Epoch   2 / 50, step    0 / 120; loss 0.6931
+Epoch   2 / 50, step   60 / 120; loss 0.6930
+Accuracy on training set is 0.5079417990299838
+Accuracy on test set is 0.5011750587529377
+AUC on test set is 0.5084696881976456
+BCE loss of test set is 0.6931, JSD of the two dists is 0.0001
+Epoch   3 / 50, step    0 / 120; loss 0.6926
+Epoch   3 / 50, step   60 / 120; loss 0.6936
+Accuracy on training set is 0.5122335372256204
+Accuracy on test set is 0.5051002550127507
+AUC on test set is 0.5114422879501892
+BCE loss of test set is 0.6929, JSD of the two dists is 0.0003
+Epoch   4 / 50, step    0 / 120; loss 0.6905
+Epoch   4 / 50, step   60 / 120; loss 0.6925
+Accuracy on training set is 0.5148669144485741
+Accuracy on test set is 0.5064753237661883
+AUC on test set is 0.5118390176221647
+BCE loss of test set is 0.6932, JSD of the two dists is -0.0001
+Epoch   5 / 50, step    0 / 120; loss 0.6927
+Epoch   5 / 50, step   60 / 120; loss 0.6909
+Accuracy on training set is 0.5195169919498658
+Accuracy on test set is 0.5107755387769388
+AUC on test set is 0.5128924704648152
+BCE loss of test set is 0.6936, JSD of the two dists is -0.0006
+Epoch   6 / 50, step    0 / 120; loss 0.6906
+Epoch   6 / 50, step   60 / 120; loss 0.6905
+Accuracy on training set is 0.5238337305621761
+Accuracy on test set is 0.503725186259313
+AUC on test set is 0.5149872374362755
+BCE loss of test set is 0.6939, JSD of the two dists is -0.0010
+Epoch   7 / 50, step    0 / 120; loss 0.6888
+Epoch   7 / 50, step   60 / 120; loss 0.6898
+Accuracy on training set is 0.5296338272304538
+Accuracy on test set is 0.5135506775338767
+AUC on test set is 0.5136956707828391
+BCE loss of test set is 0.6952, JSD of the two dists is -0.0030
+Epoch   8 / 50, step    0 / 120; loss 0.6909
+Epoch   8 / 50, step   60 / 120; loss 0.6888
+Accuracy on training set is 0.5334755579259655
+Accuracy on test set is 0.503625181259063
+AUC on test set is 0.5172872699337752
+BCE loss of test set is 0.6966, JSD of the two dists is -0.0049
+Epoch   9 / 50, step    0 / 120; loss 0.6880
+Epoch   9 / 50, step   60 / 120; loss 0.6946
+Accuracy on training set is 0.5386423107051784
+Accuracy on test set is 0.5166758337916896
+AUC on test set is 0.5219079869939294
+BCE loss of test set is 0.6950, JSD of the two dists is -0.0027
+Epoch  10 / 50, step    0 / 120; loss 0.6761
+Epoch  10 / 50, step   60 / 120; loss 0.6844
+Accuracy on training set is 0.5446507441790697
+Accuracy on test set is 0.5168008400420021
+AUC on test set is 0.5205714758461559
+BCE loss of test set is 0.6959, JSD of the two dists is -0.0040
+Epoch  11 / 50, step    0 / 120; loss 0.6783
+Epoch  11 / 50, step   60 / 120; loss 0.6784
+Accuracy on training set is 0.5508591809863498
+Accuracy on test set is 0.5108505425271264
+AUC on test set is 0.5199173529355002
+BCE loss of test set is 0.6979, JSD of the two dists is -0.0068
+Epoch  12 / 50, step    0 / 120; loss 0.6774
+Epoch  12 / 50, step   60 / 120; loss 0.6792
+Accuracy on training set is 0.5557925965432757
+Accuracy on test set is 0.5137506875343767
+AUC on test set is 0.5210803992372228
+BCE loss of test set is 0.6995, JSD of the two dists is -0.0091
+Epoch  13 / 50, step    0 / 120; loss 0.6701
+Epoch  13 / 50, step   60 / 120; loss 0.6720
+Accuracy on training set is 0.5626760446007434
+Accuracy on test set is 0.5152757637881894
+AUC on test set is 0.5190581595183064
+BCE loss of test set is 0.7091, JSD of the two dists is -0.0231
+Epoch  14 / 50, step    0 / 120; loss 0.6784
+Epoch  14 / 50, step   60 / 120; loss 0.6756
+Accuracy on training set is 0.5696428273804564
+Accuracy on test set is 0.5198009900495024
+AUC on test set is 0.5252719733841584
+BCE loss of test set is 0.7056, JSD of the two dists is -0.0180
+Epoch  15 / 50, step    0 / 120; loss 0.6619
+Epoch  15 / 50, step   60 / 120; loss 0.6638
+Accuracy on training set is 0.5769596159935999
+Accuracy on test set is 0.5191509575478774
+AUC on test set is 0.522091652860057
+BCE loss of test set is 0.7092, JSD of the two dists is -0.0231
+Epoch  16 / 50, step    0 / 120; loss 0.6515
+Epoch  16 / 50, step   60 / 120; loss 0.6615
+Accuracy on training set is 0.5847680794679911
+Accuracy on test set is 0.5131006550327516
+AUC on test set is 0.5245338745761229
+BCE loss of test set is 0.7159, JSD of the two dists is -0.0328
+Epoch  17 / 50, step    0 / 120; loss 0.6494
+Epoch  17 / 50, step   60 / 120; loss 0.6596
+Accuracy on training set is 0.5922848714145236
+Accuracy on test set is 0.5181009050452523
+AUC on test set is 0.521792987994317
+BCE loss of test set is 0.7203, JSD of the two dists is -0.0392
+Epoch  18 / 50, step    0 / 120; loss 0.6527
+Epoch  18 / 50, step   60 / 120; loss 0.6451
+Accuracy on training set is 0.5990766512775213
+Accuracy on test set is 0.5197009850492524
+AUC on test set is 0.5222297516695925
+BCE loss of test set is 0.7317, JSD of the two dists is -0.0556
+Epoch  19 / 50, step    0 / 120; loss 0.6425
+Epoch  19 / 50, step   60 / 120; loss 0.6357
+Accuracy on training set is 0.6049017483624727
+Accuracy on test set is 0.5191509575478774
+AUC on test set is 0.5238333620266192
+BCE loss of test set is 0.7361, JSD of the two dists is -0.0620
+Epoch  20 / 50, step    0 / 120; loss 0.6165
+Epoch  20 / 50, step   60 / 120; loss 0.6272
+Accuracy on training set is 0.6136768946149103
+Accuracy on test set is 0.5185759287964398
+AUC on test set is 0.523561987389834
+BCE loss of test set is 0.7477, JSD of the two dists is -0.0787
+Epoch  21 / 50, step    0 / 120; loss 0.6058
+Epoch  21 / 50, step   60 / 120; loss 0.6091
+Accuracy on training set is 0.6211186853114219
+Accuracy on test set is 0.5186759337966899
+AUC on test set is 0.5227272364168236
+BCE loss of test set is 0.7660, JSD of the two dists is -0.1051
+Epoch  22 / 50, step    0 / 120; loss 0.6118
+Epoch  22 / 50, step   60 / 120; loss 0.6126
+Accuracy on training set is 0.6290271504525076
+Accuracy on test set is 0.5141007050352517
+AUC on test set is 0.523048513543733
+BCE loss of test set is 0.7709, JSD of the two dists is -0.1122
+Epoch  23 / 50, step    0 / 120; loss 0.6073
+Epoch  23 / 50, step   60 / 120; loss 0.6145
+Accuracy on training set is 0.6359939332322205
+Accuracy on test set is 0.5193509675483774
+AUC on test set is 0.5242596596553164
+BCE loss of test set is 0.7891, JSD of the two dists is -0.1384
+Epoch  24 / 50, step    0 / 120; loss 0.5973
+Epoch  24 / 50, step   60 / 120; loss 0.5918
+Accuracy on training set is 0.6406440107335122
+Accuracy on test set is 0.5227011350567529
+AUC on test set is 0.5234971434055977
+BCE loss of test set is 0.7992, JSD of the two dists is -0.1530
+Epoch  25 / 50, step    0 / 120; loss 0.5894
+Epoch  25 / 50, step   60 / 120; loss 0.5778
+Accuracy on training set is 0.6492941549025817
+Accuracy on test set is 0.5201510075503775
+AUC on test set is 0.526101943879133
+BCE loss of test set is 0.8189, JSD of the two dists is -0.1814
+Epoch  26 / 50, step    0 / 120; loss 0.5882
+Epoch  26 / 50, step   60 / 120; loss 0.5621
+Accuracy on training set is 0.6530108835147252
+Accuracy on test set is 0.5148007400370018
+AUC on test set is 0.5217849671922569
+BCE loss of test set is 0.8277, JSD of the two dists is -0.1941
+Epoch  27 / 50, step    0 / 120; loss 0.5477
+Epoch  27 / 50, step   60 / 120; loss 0.5733
+Accuracy on training set is 0.6626610443507391
+Accuracy on test set is 0.5222761138056903
+AUC on test set is 0.5236420003909341
+BCE loss of test set is 0.8566, JSD of the two dists is -0.2359
+Epoch  28 / 50, step    0 / 120; loss 0.5620
+Epoch  28 / 50, step   60 / 120; loss 0.5667
+Accuracy on training set is 0.6660861014350239
+Accuracy on test set is 0.5159757987899395
+AUC on test set is 0.5224354997438856
+BCE loss of test set is 0.8632, JSD of the two dists is -0.2454
+Epoch  29 / 50, step    0 / 120; loss 0.5480
+Epoch  29 / 50, step   60 / 120; loss 0.5350
+Accuracy on training set is 0.6729362156035934
+Accuracy on test set is 0.5140007000350018
+AUC on test set is 0.5230009212846262
+BCE loss of test set is 0.8852, JSD of the two dists is -0.2770
+Epoch  30 / 50, step    0 / 120; loss 0.5255
+Epoch  30 / 50, step   60 / 120; loss 0.5457
+Accuracy on training set is 0.6793529892164869
+Accuracy on test set is 0.5229511475573778
+AUC on test set is 0.5219315293481059
+BCE loss of test set is 0.9111, JSD of the two dists is -0.3144
+Epoch  31 / 50, step    0 / 120; loss 0.5284
+Epoch  31 / 50, step   60 / 120; loss 0.5490
+Accuracy on training set is 0.6818030300505008
+Accuracy on test set is 0.5233261663083154
+AUC on test set is 0.5265413528189284
+BCE loss of test set is 0.9120, JSD of the two dists is -0.3158
+Epoch  32 / 50, step    0 / 120; loss 0.5119
+Epoch  32 / 50, step   60 / 120; loss 0.5347
+Accuracy on training set is 0.6881281354689245
+Accuracy on test set is 0.5169008450422521
+AUC on test set is 0.5220197706720178
+BCE loss of test set is 0.9448, JSD of the two dists is -0.3630
+Epoch  33 / 50, step    0 / 120; loss 0.5324
+Epoch  33 / 50, step   60 / 120; loss 0.5115
+Accuracy on training set is 0.6933115551925866
+Accuracy on test set is 0.5250262513125656
+AUC on test set is 0.5259475009352248
+BCE loss of test set is 0.9449, JSD of the two dists is -0.3632
+Epoch  34 / 50, step    0 / 120; loss 0.5073
+Epoch  34 / 50, step   60 / 120; loss 0.5320
+Accuracy on training set is 0.6985699761662695
+Accuracy on test set is 0.5174758737936896
+AUC on test set is 0.522692367930062
+BCE loss of test set is 0.9871, JSD of the two dists is -0.4240
+Epoch  35 / 50, step    0 / 120; loss 0.4908
+Epoch  35 / 50, step   60 / 120; loss 0.5099
+Accuracy on training set is 0.701728362139369
+Accuracy on test set is 0.5232511625581279
+AUC on test set is 0.5230973334255992
+BCE loss of test set is 1.0184, JSD of the two dists is -0.4692
+Epoch  36 / 50, step    0 / 120; loss 0.4979
+Epoch  36 / 50, step   60 / 120; loss 0.4909
+Accuracy on training set is 0.7072201203353389
+Accuracy on test set is 0.5227511375568779
+AUC on test set is 0.5213502924758718
+BCE loss of test set is 1.0270, JSD of the two dists is -0.4816
+Epoch  37 / 50, step    0 / 120; loss 0.4774
+Epoch  37 / 50, step   60 / 120; loss 0.5358
+Accuracy on training set is 0.707578459640994
+Accuracy on test set is 0.5195009750487525
+AUC on test set is 0.5234283015215814
+BCE loss of test set is 1.0693, JSD of the two dists is -0.5426
+Epoch  38 / 50, step    0 / 120; loss 0.4947
+Epoch  38 / 50, step   60 / 120; loss 0.4721
+Accuracy on training set is 0.7126868781146353
+Accuracy on test set is 0.5205260263013151
+AUC on test set is 0.5228830632491173
+BCE loss of test set is 1.0662, JSD of the two dists is -0.5382
+Epoch  39 / 50, step    0 / 120; loss 0.4771
+Epoch  39 / 50, step   60 / 120; loss 0.4618
+Accuracy on training set is 0.7184286404773413
+Accuracy on test set is 0.5234761738086904
+AUC on test set is 0.5241265413438181
+BCE loss of test set is 1.0950, JSD of the two dists is -0.5798
+Epoch  40 / 50, step    0 / 120; loss 0.4713
+Epoch  40 / 50, step   60 / 120; loss 0.4841
+Accuracy on training set is 0.722628710478508
+Accuracy on test set is 0.5236261813090655
+AUC on test set is 0.524394548143828
+BCE loss of test set is 1.1228, JSD of the two dists is -0.6198
+Epoch  41 / 50, step    0 / 120; loss 0.4499
+Epoch  41 / 50, step   60 / 120; loss 0.4626
+Accuracy on training set is 0.7251537525625427
+Accuracy on test set is 0.5221511075553777
+AUC on test set is 0.5203166278619946
+BCE loss of test set is 1.1386, JSD of the two dists is -0.6427
+Epoch  42 / 50, step    0 / 120; loss 0.4539
+Epoch  42 / 50, step   60 / 120; loss 0.4547
+Accuracy on training set is 0.7316871947865797
+Accuracy on test set is 0.5189509475473774
+AUC on test set is 0.5233578894805533
+BCE loss of test set is 1.1520, JSD of the two dists is -0.6620
+Epoch  43 / 50, step    0 / 120; loss 0.4439
+Epoch  43 / 50, step   60 / 120; loss 0.4573
+Accuracy on training set is 0.7333122218703645
+Accuracy on test set is 0.5235511775588779
+AUC on test set is 0.5248320718951093
+BCE loss of test set is 1.1863, JSD of the two dists is -0.7115
+Epoch  44 / 50, step    0 / 120; loss 0.4509
+Epoch  44 / 50, step   60 / 120; loss 0.4713
+Accuracy on training set is 0.733520558675978
+Accuracy on test set is 0.5184259212960648
+AUC on test set is 0.5215591371098132
+BCE loss of test set is 1.1780, JSD of the two dists is -0.6995
+Epoch  45 / 50, step    0 / 120; loss 0.4634
+Epoch  45 / 50, step   60 / 120; loss 0.4431
+Accuracy on training set is 0.7389956499274988
+Accuracy on test set is 0.5194009700485024
+AUC on test set is 0.5245506099996234
+BCE loss of test set is 1.2303, JSD of the two dists is -0.7750
+Epoch  46 / 50, step    0 / 120; loss 0.4295
+Epoch  46 / 50, step   60 / 120; loss 0.4508
+Accuracy on training set is 0.7413956899281655
+Accuracy on test set is 0.5254262713135657
+AUC on test set is 0.5248093771256891
+BCE loss of test set is 1.2592, JSD of the two dists is -0.8166
+Epoch  47 / 50, step    0 / 120; loss 0.4450
+Epoch  47 / 50, step   60 / 120; loss 0.4364
+Accuracy on training set is 0.7435123918731978
+Accuracy on test set is 0.5229761488074404
+AUC on test set is 0.5216924341891878
+BCE loss of test set is 1.2734, JSD of the two dists is -0.8371
+Epoch  48 / 50, step    0 / 120; loss 0.4344
+Epoch  48 / 50, step   60 / 120; loss 0.4377
+Accuracy on training set is 0.7448957482624711
+Accuracy on test set is 0.5256762838141907
+AUC on test set is 0.5244704819870225
+BCE loss of test set is 1.3142, JSD of the two dists is -0.8960
+Epoch  49 / 50, step    0 / 120; loss 0.4115
+Epoch  49 / 50, step   60 / 120; loss 0.4279
+Accuracy on training set is 0.7508875147919132
+Accuracy on test set is 0.5224261213060652
+AUC on test set is 0.5235648476758554
+BCE loss of test set is 1.3270, JSD of the two dists is -0.9145
+Epoch  50 / 50, step    0 / 120; loss 0.4370
+Epoch  50 / 50, step   60 / 120; loss 0.4316
+Accuracy on training set is 0.7524292071534525
+Accuracy on test set is 0.5259012950647532
+AUC on test set is 0.5254197244088916
+BCE loss of test set is 1.3504, JSD of the two dists is -0.9483
+classifier loaded successfully
+Now looking at independent dataset:
+Accuracy on test set is 0.5363981800909955
+AUC on test set is 0.5340676356512657
+BCE loss of test set is 1.3469, JSD of the two dists is -0.9432
+unrescaled calibration curve: [0.48485473 0.46957672 0.47416021 0.44239316 0.45629371 0.53280987
+ 0.56189198 0.53400504 0.53255069 0.52996689] [0.02287077 0.14853627 0.25237164 0.35967138 0.45468292 0.54290037
+ 0.64417084 0.74828465 0.85109778 0.97623315]
+Rescaled accuracy is 0.5356482175891205
+rescaled AUC of dataset is 0.5395432030808339
+rescaled calibration curve: [0.25       0.46769034 0.53917383 0.54166667 0.64864865] [0.35360448 0.47462136 0.52927404 0.65       0.78571429]
+rescaled BCE loss of test set is 0.6906, rescaled JSD of the two dists is 0.0037
+Final result of classifier test cls-high for samples.hdf5 (AUC / JSD):
+0.5395 / 0.0037
+/var/spool/slurm/slurmd/job1862731/slurm_script: line 20: --which_cuda: command not found

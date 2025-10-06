@@ -1,0 +1,7 @@
+/home/fa7sa/bin/dvipng
+Traceback (most recent call last):
+  File "/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/evaluate_fpd_kpd.py", line 15, in <module>
+    import HighLevelFeatures as HLF
+  File "/sfs/gpfs/tardis/project/bii_nssac/people/fa7sa/calo_dreamer/src/challenge_files/HighLevelFeatures.py", line 15, in <module>
+    from challenge_files.XMLHandler import XMLHandler
+ModuleNotFoundError: No module named 'challenge_files'
