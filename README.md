@@ -34,9 +34,9 @@ Update the keys that reference your files (training, test, and XML). Example:
 ```yaml
 # Example — adjust to your actual field names
 data:
-  train_path: /abs/path/to/train.npz
-  test_path:  /abs/path/to/test.npz
-  xml_path:   /abs/path/to/geometry.xml
+  hdf5_file: /abs/path/to/train.hdf5
+  eval_hdf5_file:  /abs/path/to/test.hdf5
+  xml_filename:   /abs/path/to/geometry.xml
 ```
 
 > Tip: search within each YAML for `train`, `test`, `path`, or `xml` and replace the placeholder paths.
