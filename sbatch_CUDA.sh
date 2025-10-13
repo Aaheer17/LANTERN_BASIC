@@ -1,4 +1,4 @@
-#!/bin/bash
+gy#!/bin/bash
 ##SBATCH -N 1
 #SBATCH --cpus-per-task=8  
 #SBATCH -n 1
@@ -20,7 +20,7 @@ source activate torch_gpu_renew
 export PATH=~/bin:$PATH
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 which dvipng
-python3 main.py ./configs/d2_shape_model_diffusion_p3_sigmoid.yaml --use_cuda
+python3 main.py ./configs/d2_shape_model_DDPM.yaml --use_cuda
 #srun python3 main_multiGPU.py /project/biocomplexity/fa7sa/calo_dreamer/configs/d2_shape_model_Autodiffusion.yaml --use_cuda
 #python3 main.py /project/biocomplexity/fa7sa/calo_dreamer/configs/d2_energy_model_submission.yaml --use_cuda
 #python3 cuda_mem_test.py
