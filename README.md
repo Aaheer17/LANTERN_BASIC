@@ -41,12 +41,28 @@ data:
 
 > Tip: search within each YAML for `train`, `test`, `path`, or `xml` and replace the placeholder paths.
 
-## 3) Run on Slurm
+## 3) Training order (important)
 
-From the repo root (after editing config paths):
+1. **Train the Energy model first** using `configs/d2_energy_model_DDPM.yaml`.
+2. After the energy model finishes, open `configs/d2_shape_model_diffusion.yaml` and set the **folder path** to the trained energy model (the directory that contains its checkpoints). For example:
+   
+```yaml
+# inside d2_shape_model_diffusion.yaml
+energy_model:
+  dir: /abs/path/to/energy_model   # folder with trained energy-model checkpoints
+```
+   
+> The exact key name may be `energy_model`, `energy_model_dir`, or similar in your config—set it to the **folder** produced by the energy run.
+
+## 4) Run on Slurm
+
+From the repo root (after editing config paths and setting the energy model folder as above):
 
 ```bash
+# Step 1 — train energy model
 sbatch sbatch_energy_model.sh    # uses configs/d2_energy_model_DDPM.yaml
+
+# Step 2 — train shape model (after energy model is trained)
 sbatch sbatch_shape_model.sh     # uses configs/d2_shape_model_diffusion.yaml
 ```
 
@@ -58,7 +74,7 @@ sbatch sbatch_shape_model.sh     # uses configs/d2_shape_model_diffusion.yaml
 LANTERN_BASIC/
 ├─ configs/
 │  ├─ d2_energy_model_DDPM.yaml              # EDIT PATHS
-│  └─ d2_shape_model_diffusion.yaml          # EDIT PATHS
+│  └─ d2_shape_model_diffusion.yaml          # EDIT PATHS + ENERGY MODEL FOLDER
 ├─ src/                                      # training code
 ├─ LANTERN.yml                               # conda environment
 ├─ sbatch_energy_model.sh                     # Slurm launcher
